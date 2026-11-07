@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Finite Resolve",
+  "card": {
+    "id": "END_010b",
+    "dbfId": 121147,
+    "name": "유한한 결의",
+    "text": "다른 모든 하수인의 생명력을 1로 바꿉니다.",
+    "type": "SPELL",
+    "cardClass": "INVALID",
+    "classes": [
+      "DRUID",
+      "PALADIN"
+    ],
+    "nativeSetId": 1957,
+    "set": "TIME_TRAVEL",
+    "rarity": "",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 6,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS36-333_S.tif:6c29f1c697604ea5bd2e83e8c8e77c5f",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 18
+      }
+    ],
+    "nativeRawText": "다른 모든 하수인의 생명력을 1로 바꿉니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1957,
+    "slug": "across-the-timeways",
+    "name": "시간의 길 너머로",
+    "type": "",
+    "englishName": "Across The Timeways"
+  },
+  "setOrder": 3,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

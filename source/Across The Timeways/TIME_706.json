@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "The Fins Beyond Time",
+  "card": {
+    "id": "TIME_706",
+    "dbfId": 120774,
+    "name": "시간을 초월한 멀록들",
+    "text": "<b>전투의 함성:</b> 내 손에 있는 모든\n카드를 내 시작 카드로 교체합니다.\n내 턴이 끝날 때 원래 카드로\n돌아옵니다.",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "classes": [],
+    "nativeSetId": 1957,
+    "set": "TIME_TRAVEL",
+    "rarity": "LEGENDARY",
+    "race": "멀록",
+    "races": [
+      "MURLOC"
+    ],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 2,
+    "health": 3,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS36-045_M.tif:17a6d75fad254dc5b0204a80a28df222",
+    "flavor": "카드라고? 우리가 지금 갈 곳에서 카드는 필요 없어.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]<b>전투의 함성:</b> 내 손에 있는 모든\n카드를 내 시작 카드로 교체합니다.\n내 턴이 끝날 때 원래 카드로\n돌아옵니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1957,
+    "slug": "across-the-timeways",
+    "name": "시간의 길 너머로",
+    "type": "",
+    "englishName": "Across The Timeways"
+  },
+  "setOrder": 3,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

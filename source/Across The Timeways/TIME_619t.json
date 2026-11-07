@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Bwonsamdi",
+  "card": {
+    "id": "TIME_619t",
+    "dbfId": 120187,
+    "name": "브원삼디",
+    "text": "<b>죽음의 메아리:</b> 비용이 4인 무작위 하수인을 소환합니다. <i>(브원삼디에게 부여된 모든 축복을 넘겨줍니다.)</i>",
+    "type": "MINION",
+    "cardClass": "DEATHKNIGHT",
+    "classes": [],
+    "nativeSetId": 1957,
+    "set": "TIME_TRAVEL",
+    "rarity": "",
+    "race": "언데드",
+    "races": [
+      "UNDEAD"
+    ],
+    "spellSchool": "",
+    "cost": 6,
+    "attack": 6,
+    "health": 6,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS36-005_M.tif:18a9f97f88ff42c6b674b4a5cce4d1e5",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 4
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 4445,
+        "name": "설화 보너스 카드",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>죽음의 메아리:</b> 비용이 @인 무작위 하수인을 소환합니다. <i>(브원삼디에게 부여된 모든 축복을 넘겨줍니다.)</i>",
+    "nativeTextBuilder": 7
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1957,
+    "slug": "across-the-timeways",
+    "name": "시간의 길 너머로",
+    "type": "",
+    "englishName": "Across The Timeways"
+  },
+  "setOrder": 3,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

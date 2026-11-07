@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Treant",
+  "card": {
+    "id": "END_009t",
+    "dbfId": 121108,
+    "name": "나무정령",
+    "text": "",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "classes": [],
+    "nativeSetId": 1957,
+    "set": "TIME_TRAVEL",
+    "rarity": "",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 1,
+    "attack": 2,
+    "health": 2,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS36-336_M.tif:2e6aa58619364b4eb306557f34162eef",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 2831,
+        "name": "게임 태그 2831",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "",
+    "nativeTextBuilder": 0
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1957,
+    "slug": "across-the-timeways",
+    "name": "시간의 길 너머로",
+    "type": "",
+    "englishName": "Across The Timeways"
+  },
+  "setOrder": 3,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

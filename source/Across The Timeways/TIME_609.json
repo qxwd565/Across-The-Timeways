@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Ranger General Sylvanas",
+  "card": {
+    "id": "TIME_609",
+    "dbfId": 119707,
+    "name": "순찰대 사령관 실바나스",
+    "text": "<b>설화</b>, <b>전투의 함성:</b> 모든 적에게 피해를 2 줍니다. 내가 알레리아 또는 베리사를 냈으면 그 수만큼 반복합니다.",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "classes": [],
+    "nativeSetId": 1957,
+    "set": "TIME_TRAVEL",
+    "rarity": "LEGENDARY",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 3,
+    "attack": 2,
+    "health": 4,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS36-030_M.tif:319393cd68384a64a7321be90e118138",
+    "flavor": "훗날 무엇이 되든, 실버문의 순찰대 사령관만큼 리치 왕과 용맹하게 싸운 영웅은 없습니다.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 676,
+        "name": "무작위 선택 제외",
+        "value": 1
+      },
+      {
+        "id": 1932,
+        "name": "다이아몬드 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 2936,
+        "name": "게임 태그 2936",
+        "value": 1
+      },
+      {
+        "id": 4085,
+        "name": "설화",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>설화</b>, <b>전투의 함성:</b> 모든 적에게 피해를 2 줍니다. 내가 알레리아 또는 베리사를 냈으면 그 수만큼 반복합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [
+    119705,
+    119706
+  ],
+  "expansion": {
+    "id": 1957,
+    "slug": "across-the-timeways",
+    "name": "시간의 길 너머로",
+    "type": "",
+    "englishName": "Across The Timeways"
+  },
+  "setOrder": 3,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

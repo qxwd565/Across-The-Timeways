@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Wings of Eternity",
+  "card": {
+    "id": "END_027",
+    "dbfId": 121190,
+    "name": "영원의 날개",
+    "text": "<b>어둠의 선물</b> 능력이 있는 과거의 용족을 <b>발견</b>합니다.",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "classes": [],
+    "nativeSetId": 1957,
+    "set": "TIME_TRAVEL",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 1,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS36-314_S.tif:bfcadcc0a1034bcea58a03b95076c343",
+    "flavor": "<b>전투의 함성</b>이 두 개 있는 템퍼루스가 빨리 나오면 좋을 텐데요.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3627,
+        "name": "어둠의 선물",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>어둠의 선물</b> 능력이 있는 과거의 용족을 <b>발견</b>합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1957,
+    "slug": "across-the-timeways",
+    "name": "시간의 길 너머로",
+    "type": "",
+    "englishName": "Across The Timeways"
+  },
+  "setOrder": 3,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

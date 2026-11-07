@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Twilight Timereaver",
+  "card": {
+    "id": "END_010",
+    "dbfId": 121144,
+    "name": "황혼의 시간파괴자",
+    "text": "<b>선택 -</b> 다른 모든 하수인의 공격력을 1로, 또는 생명력을 1로 바꿉니다.",
+    "type": "MINION",
+    "cardClass": "INVALID",
+    "classes": [
+      "DRUID",
+      "PALADIN"
+    ],
+    "nativeSetId": 1957,
+    "set": "TIME_TRAVEL",
+    "rarity": "RARE",
+    "race": "용족",
+    "races": [
+      "DRAGON"
+    ],
+    "spellSchool": "",
+    "cost": 6,
+    "attack": 5,
+    "health": 5,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": true,
+    "installed": true,
+    "portrait": "HS36-331_M.tif:58cf5a0122df485bba61c3dbbe90b402",
+    "flavor": "말이 나와서 말인데, 비늘이 정말 반짝거리긴 하네요...",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 24
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 443,
+        "name": "선택",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 18
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>선택 -</b> 다른 모든 하수인의 공격력을 1로, 또는 생명력을 1로 바꿉니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [
+    121145,
+    121147
+  ],
+  "expansion": {
+    "id": 1957,
+    "slug": "across-the-timeways",
+    "name": "시간의 길 너머로",
+    "type": "",
+    "englishName": "Across The Timeways"
+  },
+  "setOrder": 3,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

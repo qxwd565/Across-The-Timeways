@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Alternate Reality",
+  "card": {
+    "id": "TIME_707",
+    "dbfId": 122833,
+    "name": "평행 현실",
+    "text": "내 손과 덱을 과거의 무작위 <b>선택</b> 카드로 교체합니다. 그 카드들의 비용이 (1) 감소합니다.",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "classes": [],
+    "nativeSetId": 1957,
+    "set": "TIME_TRAVEL",
+    "rarity": "EPIC",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": true,
+    "installed": true,
+    "portrait": "HS36-161_S.tif:e59ff4b31adb42dc90d3c5aa8447dd75",
+    "flavor": "네 현실을 부정하고 내 현실을 내세우겠어!",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 443,
+        "name": "선택",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "내 손과 덱을 과거의 무작위 <b>선택</b> 카드로 교체합니다. 그 카드들의 비용이 (1) 감소합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1957,
+    "slug": "across-the-timeways",
+    "name": "시간의 길 너머로",
+    "type": "",
+    "englishName": "Across The Timeways"
+  },
+  "setOrder": 3,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

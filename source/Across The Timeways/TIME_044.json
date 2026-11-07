@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Past Gnomeregan",
+  "card": {
+    "id": "TIME_044",
+    "dbfId": 120821,
+    "name": "과거의 놈리건",
+    "text": "하수인에게 +2/+1을 부여합니다. <i>현재로 진행합니다!</i>",
+    "type": "LOCATION",
+    "cardClass": "PALADIN",
+    "classes": [],
+    "nativeSetId": 1957,
+    "set": "TIME_TRAVEL",
+    "rarity": "EPIC",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 0,
+    "health": 3,
+    "armor": 0,
+    "durability": 3,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS36-041_L.tif:b34bfada36f3414e9e0bac3b0a836fc8",
+    "flavor": "트로그 침공 전까지만 해도 놈리건은 최신 기술을 갖춘 거대 도시였습니다.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 39
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1078,
+        "name": "마우스를 올리면 카드 표시",
+        "value": 120822
+      }
+    ],
+    "nativeRawText": "하수인에게 +2/+1을 부여합니다. <i>현재로 진행합니다!</i>",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [
+    120822,
+    120823
+  ],
+  "expansion": {
+    "id": 1957,
+    "slug": "across-the-timeways",
+    "name": "시간의 길 너머로",
+    "type": "",
+    "englishName": "Across The Timeways"
+  },
+  "setOrder": 3,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

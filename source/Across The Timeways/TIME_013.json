@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Farseer Wo",
+  "card": {
+    "id": "TIME_013",
+    "dbfId": 119686,
+    "name": "선견자 워오",
+    "text": "<b>모면</b>, 내가 주문을 시전한 후에 과거의 자연 주문을 <b>발견</b>합니다.",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "classes": [],
+    "nativeSetId": 1957,
+    "set": "TIME_TRAVEL",
+    "rarity": "LEGENDARY",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 2,
+    "health": 6,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS36-066_M.tif:cf795bd97d824bf4ad825c8f2db6879a",
+    "flavor": "2주 동안 아무런 방해 없이 묵묵히 명상하며 끝없는 우주가 펼쳐지는 모습을 응시했습니다. 탐색하지 않은 길이 없고, 뒤지지 않은 구석이 없죠. 마침내 유영하던 정신에서 깼을 때, 단 한 마디를 내뱉었습니다. \"워오.\"",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1211,
+        "name": "모면",
+        "value": 1
+      },
+      {
+        "id": 1932,
+        "name": "다이아몬드 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4578,
+        "name": "게임 태그 4578",
+        "value": 1
+      },
+      {
+        "id": 4930,
+        "name": "게임 태그 4930",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>모면</b>, 내가 주문을 시전한 후에& 과거의 자연 주문을 <b>발견</b>합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1957,
+    "slug": "across-the-timeways",
+    "name": "시간의 길 너머로",
+    "type": "",
+    "englishName": "Across The Timeways"
+  },
+  "setOrder": 3,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

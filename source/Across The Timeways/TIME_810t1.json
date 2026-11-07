@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Present Silvermoon",
+  "card": {
+    "id": "TIME_810t1",
+    "dbfId": 119168,
+    "name": "현재의 실버문",
+    "text": "무작위 적 하수인에게 피해를 5\n줍니다. 초과한 피해량만큼\n적 영웅에게 피해를 줍니다.\n<i>미래로 진행합니다!</i>",
+    "type": "LOCATION",
+    "cardClass": "HUNTER",
+    "classes": [],
+    "nativeSetId": 1957,
+    "set": "TIME_TRAVEL",
+    "rarity": "EPIC",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 0,
+    "health": 3,
+    "armor": 0,
+    "durability": 3,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS36-026_L.tif:2dc1f0aed85d4df99b20bc14b60a513a",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 39
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 1078,
+        "name": "마우스를 올리면 카드 표시",
+        "value": 119169
+      }
+    ],
+    "nativeRawText": "[x]무작위 적 하수인에게 피해를 5\n줍니다. 초과한 피해량만큼\n적 영웅에게 피해를 줍니다.\n<i>미래로 진행합니다!</i>",
+    "nativeTextBuilder": 0
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1957,
+    "slug": "across-the-timeways",
+    "name": "시간의 길 너머로",
+    "type": "",
+    "englishName": "Across The Timeways"
+  },
+  "setOrder": 3,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

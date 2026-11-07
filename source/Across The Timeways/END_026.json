@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Fragment of Nothing",
+  "card": {
+    "id": "END_026",
+    "dbfId": 121189,
+    "name": "무의 조각",
+    "text": "내가 하수인에게 주문을 시전한 후에, 카드를 뽑습니다.",
+    "type": "MINION",
+    "cardClass": "INVALID",
+    "classes": [
+      "MAGE",
+      "PRIEST"
+    ],
+    "nativeSetId": 1957,
+    "set": "TIME_TRAVEL",
+    "rarity": "RARE",
+    "race": "정령",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 3,
+    "health": 6,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS36-316_M.tif:e63c5e551e9f481ca8e5aef63b1e4e8e",
+    "flavor": "이름에 어울리게 그 무엇에도 신경을 쓰지 않습니다.",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 40
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4930,
+        "name": "게임 태그 4930",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "내가 하수인에게 주문을 시전한 후에,& 카드를 뽑습니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1957,
+    "slug": "across-the-timeways",
+    "name": "시간의 길 너머로",
+    "type": "",
+    "englishName": "Across The Timeways"
+  },
+  "setOrder": 3,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

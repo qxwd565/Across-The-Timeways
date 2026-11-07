@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Druid of Regrowth",
+  "card": {
+    "id": "TIME_033",
+    "dbfId": 120499,
+    "name": "재생의 드루이드",
+    "text": "<b>되돌리기</b>, <b>전투의 함성:</b> 무작위 자연 주문을 둘 시전합니다.",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "classes": [],
+    "nativeSetId": 1957,
+    "set": "TIME_TRAVEL",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 6,
+    "attack": 3,
+    "health": 5,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS36-012_M.tif:592a1045d0a04f5daa7403cc683812a4",
+    "flavor": "멋져 보입니다. 공격적인 부류라는 걸 깨닫기 전까지는요.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 3934,
+        "name": "되돌리기",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>되돌리기</b>, <b>전투의 함성:</b> 무작위 자연 주문을 둘 시전합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1957,
+    "slug": "across-the-timeways",
+    "name": "시간의 길 너머로",
+    "type": "",
+    "englishName": "Across The Timeways"
+  },
+  "setOrder": 3,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

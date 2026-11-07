@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Second Portal to Argus",
+  "card": {
+    "id": "TIME_020t3",
+    "dbfId": 120164,
+    "name": "아르거스로 통하는 두 번째 차원문",
+    "text": "상대편에게 2/1 악마를 소환해\n줍니다. 그 악마가 죽으면\n카드를 뽑고 다음 차원문을\n내 덱에 섞어 넣습니다.",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "classes": [],
+    "nativeSetId": 1957,
+    "set": "TIME_TRAVEL",
+    "rarity": "",
+    "race": "",
+    "races": [],
+    "spellSchool": "FEL",
+    "cost": 0,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS36-131_S.tif:c6de7fd67e974e65b28058244a3829ca",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 7
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]상대편에게 2/1 악마를 소환해\n줍니다. 그 악마가 죽으면\n카드를 뽑고 다음 차원문을\n내 덱에 섞어 넣습니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1957,
+    "slug": "across-the-timeways",
+    "name": "시간의 길 너머로",
+    "type": "",
+    "englishName": "Across The Timeways"
+  },
+  "setOrder": 3,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

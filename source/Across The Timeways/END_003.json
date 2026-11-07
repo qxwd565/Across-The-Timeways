@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Finality",
+  "card": {
+    "id": "END_003",
+    "dbfId": 121271,
+    "name": "최종성",
+    "text": "언데드를 뽑습니다.\n내 영웅 능력을 두 번\n<b>연마</b>합니다.",
+    "type": "SPELL",
+    "cardClass": "DEATHKNIGHT",
+    "classes": [],
+    "nativeSetId": 1957,
+    "set": "TIME_TRAVEL",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 3,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS36-303_S.tif:2914c79336164075be527f230e7c9447",
+    "flavor": "모든 메타는 끝내야 한다.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3626,
+        "name": "연마",
+        "value": 1
+      },
+      {
+        "id": 3692,
+        "name": "연마 카드 관련",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]언데드를 뽑습니다.\n내 영웅 능력을 두 번\n<b>연마</b>합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [
+    121272
+  ],
+  "expansion": {
+    "id": 1957,
+    "slug": "across-the-timeways",
+    "name": "시간의 길 너머로",
+    "type": "",
+    "englishName": "Across The Timeways"
+  },
+  "setOrder": 3,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

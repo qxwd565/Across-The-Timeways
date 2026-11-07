@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "PMM Infinitizer",
+  "card": {
+    "id": "TIME_043",
+    "dbfId": 120818,
+    "name": "PMM 극한화기",
+    "text": "<b>전투의 함성:</b> 아군 하수인의\n공격력과 생명력을 8로\n만듭니다. 그 하수인은 이번 턴에\n영웅을 공격할 수 없습니다.",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "classes": [],
+    "nativeSetId": 1957,
+    "set": "TIME_TRAVEL",
+    "rarity": "RARE",
+    "race": "기계",
+    "races": [
+      "MECHANICAL"
+    ],
+    "spellSchool": "",
+    "cost": 6,
+    "attack": 4,
+    "health": 4,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS36-178_M.tif:27200d11cd654d9aa018d8dbda378048",
+    "flavor": "PMM이 무엇의 약자인지는 아무도 모릅니다.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]<b>전투의 함성:</b> 아군 하수인의\n공격력과 생명력을 8로\n만듭니다. 그 하수인은 이번 턴에\n영웅을 공격할 수 없습니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1957,
+    "slug": "across-the-timeways",
+    "name": "시간의 길 너머로",
+    "type": "",
+    "englishName": "Across The Timeways"
+  },
+  "setOrder": 3,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Empower Zin-Azshari",
+  "card": {
+    "id": "TIME_211a",
+    "dbfId": 120204,
+    "name": "진아즈샤리 강화",
+    "text": "진아즈샤리로 소환된 하수인들의 능력치가 2배가 됩니다. 영원의 샘을 파괴합니다.",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "classes": [],
+    "nativeSetId": 1957,
+    "set": "TIME_TRAVEL",
+    "rarity": "",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 5,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS36-017_S.tif:b1c5802b3cc24dcab0cd69df1fbc0410",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "nativeRawText": "진아즈샤리로 소환된 하수인들의 능력치가 2배가 됩니다. 영원의 샘을 파괴합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1957,
+    "slug": "across-the-timeways",
+    "name": "시간의 길 너머로",
+    "type": "",
+    "englishName": "Across The Timeways"
+  },
+  "setOrder": 3,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}
