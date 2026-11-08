@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "내 하수인들에게 +1/+1을 부여합니다. 시간의 편린 2개를 내 덱에 섞어 넣습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "내 덱 맨 아래에 있는 카드를 두 장 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

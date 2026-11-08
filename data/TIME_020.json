@@ -109,7 +109,9 @@
       }
     ],
     "nativeRawText": "<b>설화</b>, <b>돌진</b>, <b>개전:</b> 사라집니다. 아르거스에서 온 악마 넷을 모두 처치하면 내 손에 다시 나타납니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

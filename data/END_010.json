@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>선택 -</b> 다른 모든 하수인의 공격력을 1로, 또는 생명력을 1로 바꿉니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

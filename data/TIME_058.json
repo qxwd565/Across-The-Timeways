@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리:</b> 비용이 2인 무작위 하수인을 소환합니다. 그 하수인은 2턴 동안 <b>휴면</b> 상태입니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

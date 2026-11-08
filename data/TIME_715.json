@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "[x]카드를 2장 뽑습니다.\n상대편의 하수인 하나당\n비용이 (1) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

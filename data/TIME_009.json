@@ -101,7 +101,9 @@
       }
     ],
     "nativeRawText": "<b>설화</b>, <b>전투의 함성:</b>\n내 덱에 있는 모든\n종류의 오라를 하나씩 시전합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

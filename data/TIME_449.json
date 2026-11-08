@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "이번 턴에 내 영웅이 공격력을 +4 얻습니다.\n내 덱에 하수인이 없으면\n내 손에 있는 모든 하수인에게 공격력을 +4 부여합니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

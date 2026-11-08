@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b> 능력이 있는 0/4 하수인을 소환합니다. 내 손에 용족이 있으면, 하나 더 소환합니다.",
-    "nativeTextBuilder": 39
+    "nativeTextBuilder": 39,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

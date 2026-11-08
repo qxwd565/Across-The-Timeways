@@ -67,7 +67,9 @@
       }
     ],
     "nativeRawText": "[x]공격력이 4 이하인\n모든 하수인을\n처치합니다. <b>과부하:</b> (2)",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

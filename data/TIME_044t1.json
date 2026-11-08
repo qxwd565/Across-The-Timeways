@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "하수인에게 +2/+1과 \"<b>죽음의 메아리:</b> 적 영웅에게 피해를 2 줌\" 능력을 부여합니다. <i>미래로 진행합니다!</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

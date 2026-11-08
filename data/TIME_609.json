@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "<b>설화</b>, <b>전투의 함성:</b> 모든 적에게 피해를 2 줍니다. 내가 알레리아 또는 베리사를 냈으면 그 수만큼 반복합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

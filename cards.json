@@ -61,7 +61,9 @@
       "relatedDbfIds": [
         119589,
         119636
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_810",
@@ -121,7 +123,9 @@
       "relatedDbfIds": [
         119168,
         119169
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_810t1",
@@ -171,7 +175,9 @@
           "name": "마우스를 올리면 카드 표시",
           "value": 119169
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_810t2",
@@ -216,7 +222,9 @@
           "name": "희귀도",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_001",
@@ -267,7 +275,9 @@
           "name": "되돌리기",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_002",
@@ -336,7 +346,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_003",
@@ -419,7 +431,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_004",
@@ -497,7 +511,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_005",
@@ -623,7 +639,9 @@
         119446,
         119450,
         119562
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_005t1",
@@ -702,7 +720,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_005t2",
@@ -775,7 +795,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_005t3",
@@ -859,7 +881,9 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_005t4",
@@ -932,7 +956,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_005t5",
@@ -1011,7 +1037,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_005t6",
@@ -1093,7 +1121,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_005t7",
@@ -1166,7 +1196,9 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_005t8",
@@ -1248,7 +1280,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_005t9",
@@ -1321,7 +1355,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_850",
@@ -1420,7 +1456,9 @@
       "relatedDbfIds": [
         119453,
         119454
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_850t",
@@ -1494,7 +1532,9 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_850t1",
@@ -1567,7 +1607,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_852",
@@ -1666,7 +1708,9 @@
       "relatedDbfIds": [
         119527,
         119525
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_852t3",
@@ -1716,7 +1760,9 @@
           "name": "설화 보너스 카드",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_852t1",
@@ -1790,7 +1836,9 @@
           "name": "설화 보너스 카드",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_855",
@@ -1842,7 +1890,9 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_006",
@@ -1899,7 +1949,9 @@
       ],
       "relatedDbfIds": [
         119916
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_008",
@@ -1968,7 +2020,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_005t9t",
@@ -2027,7 +2081,9 @@
           "name": "게임 태그 3928",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_000ta",
@@ -2067,7 +2123,9 @@
           "name": "게임 태그 4412",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_856",
@@ -2140,7 +2198,9 @@
       ],
       "mechanics": [
         "SPELLPOWER"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_857",
@@ -2200,7 +2260,9 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_000tb",
@@ -2240,7 +2302,9 @@
           "name": "되돌리기",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_209",
@@ -2345,7 +2409,9 @@
       "relatedDbfIds": [
         119647,
         119653
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_209t",
@@ -2424,7 +2490,9 @@
       "mechanics": [
         "WINDFURY",
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_858",
@@ -2497,7 +2565,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_209t2",
@@ -2547,7 +2617,9 @@
           "name": "설화 보너스 카드",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_013",
@@ -2647,7 +2719,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_014",
@@ -2706,7 +2780,9 @@
       ],
       "mechanics": [
         "OVERLOAD"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_859",
@@ -2758,7 +2834,9 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_600",
@@ -2809,7 +2887,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_603",
@@ -2887,7 +2967,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_605",
@@ -2981,7 +3063,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_606",
@@ -3042,7 +3126,9 @@
           "name": "지속 효과",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_609t1",
@@ -3116,7 +3202,9 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_609t2",
@@ -3184,7 +3272,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_609",
@@ -3277,7 +3367,9 @@
       "relatedDbfIds": [
         119705,
         119706
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_860",
@@ -3352,7 +3444,9 @@
       "mechanics": [
         "BATTLECRY",
         "SECRET"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_861",
@@ -3426,7 +3520,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_870",
@@ -3488,7 +3584,9 @@
       ],
       "relatedDbfIds": [
         122348
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_871",
@@ -3577,7 +3675,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_872",
@@ -3662,7 +3762,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_873",
@@ -3711,7 +3813,9 @@
       ],
       "relatedDbfIds": [
         119787
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_873t",
@@ -3765,7 +3869,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_875",
@@ -3858,7 +3964,9 @@
       "relatedDbfIds": [
         119815,
         119816
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_875t",
@@ -3937,7 +4045,9 @@
       "mechanics": [
         "BATTLECRY",
         "START_OF_GAME"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_875t1",
@@ -4005,7 +4115,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_876",
@@ -4061,7 +4173,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_006t1",
@@ -4109,7 +4223,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_009",
@@ -4211,7 +4327,9 @@
       "relatedDbfIds": [
         119919,
         119920
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_009t1",
@@ -4305,7 +4423,9 @@
       ],
       "mechanics": [
         "TRADEABLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_009t2",
@@ -4405,7 +4525,9 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "TRADEABLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_211",
@@ -4497,7 +4619,9 @@
         120202,
         120205,
         120200
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_211t1",
@@ -4552,7 +4676,9 @@
           "name": "설화 보너스 카드",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_211t2",
@@ -4602,7 +4728,9 @@
           "name": "설화 보너스 카드",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_015",
@@ -4681,7 +4809,9 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_016",
@@ -4746,7 +4876,9 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_017",
@@ -4828,7 +4960,9 @@
       ],
       "relatedDbfIds": [
         2047
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_018",
@@ -4885,7 +5019,9 @@
           "name": "되돌리기",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_019",
@@ -4963,7 +5099,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_890",
@@ -5061,7 +5199,9 @@
       "relatedDbfIds": [
         120064,
         120068
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_890t",
@@ -5121,7 +5261,9 @@
           "name": "설화 보너스 카드",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_890t2",
@@ -5176,7 +5318,9 @@
           "name": "설화 보너스 카드",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_020",
@@ -5292,7 +5436,9 @@
         120167,
         120168,
         120169
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_020t1",
@@ -5366,7 +5512,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_020t2",
@@ -5417,7 +5565,9 @@
           "name": "설화 보너스 카드",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_020t2t",
@@ -5479,7 +5629,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_020t3",
@@ -5525,7 +5677,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_020t3t",
@@ -5587,7 +5741,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_020t4",
@@ -5633,7 +5789,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_020t4t",
@@ -5695,7 +5853,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_020t5",
@@ -5741,7 +5901,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_020t5t",
@@ -5803,7 +5965,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_212",
@@ -5855,7 +6019,9 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_214",
@@ -5934,7 +6100,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_215",
@@ -5994,7 +6162,9 @@
       ],
       "relatedDbfIds": [
         121020
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_217",
@@ -6078,7 +6248,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_021",
@@ -6153,7 +6325,9 @@
       "mechanics": [
         "IMMUNE",
         "OUTCAST"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_022",
@@ -6232,7 +6406,9 @@
       "mechanics": [
         "RUSH",
         "DORMANT"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_619",
@@ -6337,7 +6513,9 @@
         120184,
         120185,
         120186
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_619t3",
@@ -6386,7 +6564,9 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_619t4",
@@ -6435,7 +6615,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_619t5",
@@ -6484,7 +6666,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_619t",
@@ -6571,7 +6755,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_619t2",
@@ -6621,7 +6807,9 @@
           "name": "설화 보너스 카드",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_211t1t",
@@ -6671,7 +6859,9 @@
           "name": "게임 태그 3630",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_211t2t",
@@ -6716,7 +6906,9 @@
           "name": "카드 유형",
           "value": 39
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_211a",
@@ -6751,7 +6943,9 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_211b",
@@ -6786,7 +6980,9 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_023",
@@ -6832,7 +7028,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_616",
@@ -6884,7 +7082,9 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_024",
@@ -6967,7 +7167,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_611",
@@ -7032,7 +7234,9 @@
       ],
       "mechanics": [
         "FREEZE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_213",
@@ -7106,7 +7310,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_216",
@@ -7158,7 +7364,9 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_427",
@@ -7237,7 +7445,9 @@
       "mechanics": [
         "BATTLECRY",
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_428",
@@ -7325,7 +7535,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_429",
@@ -7403,7 +7615,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_431",
@@ -7473,7 +7687,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_432",
@@ -7532,7 +7748,9 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_613",
@@ -7606,7 +7824,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_025",
@@ -7682,7 +7902,9 @@
       ],
       "relatedDbfIds": [
         120483
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_025t",
@@ -7725,7 +7947,9 @@
       ],
       "mechanics": [
         "CASTS_WHEN_DRAWN"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_026",
@@ -7774,7 +7998,9 @@
       ],
       "relatedDbfIds": [
         120483
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_027",
@@ -7828,7 +8054,9 @@
       ],
       "relatedDbfIds": [
         120483
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_028",
@@ -7910,7 +8138,9 @@
       ],
       "relatedDbfIds": [
         120483
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_029",
@@ -7992,7 +8222,9 @@
       ],
       "relatedDbfIds": [
         120483
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_030",
@@ -8044,7 +8276,9 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_031",
@@ -8100,7 +8334,9 @@
           "name": "게임 태그 3169",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_032",
@@ -8183,7 +8419,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_433",
@@ -8244,7 +8482,9 @@
           "name": "되돌리기",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_033",
@@ -8313,7 +8553,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_602",
@@ -8364,7 +8606,9 @@
           "name": "되돌리기",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_034",
@@ -8442,7 +8686,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_035",
@@ -8531,7 +8777,9 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_434",
@@ -8598,7 +8846,9 @@
       ],
       "relatedDbfIds": [
         120946
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_610",
@@ -8668,7 +8918,9 @@
       ],
       "relatedDbfIds": [
         121462
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_036",
@@ -8735,7 +8987,9 @@
       ],
       "relatedDbfIds": [
         122962
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_435",
@@ -8818,7 +9072,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_436",
@@ -8878,7 +9134,9 @@
       "relatedDbfIds": [
         122262,
         122263
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_037",
@@ -8952,7 +9210,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_700",
@@ -9040,7 +9300,9 @@
       ],
       "relatedDbfIds": [
         122736
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_038",
@@ -9138,7 +9400,9 @@
         120982,
         120983,
         120984
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_039",
@@ -9197,7 +9461,9 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_701",
@@ -9262,7 +9528,9 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_702",
@@ -9314,7 +9582,9 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_703",
@@ -9393,7 +9663,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_704",
@@ -9476,7 +9748,9 @@
       ],
       "relatedDbfIds": [
         122590
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_705",
@@ -9556,7 +9830,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_706",
@@ -9639,7 +9915,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_040",
@@ -9717,7 +9995,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_041",
@@ -9797,7 +10077,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_601",
@@ -9875,7 +10157,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_710",
@@ -9950,7 +10234,9 @@
       "mechanics": [
         "STEALTH",
         "COMBO"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_711",
@@ -10004,7 +10290,9 @@
       ],
       "mechanics": [
         "COMBO"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_042t",
@@ -10039,7 +10327,9 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_042",
@@ -10125,7 +10415,9 @@
       ],
       "relatedDbfIds": [
         120794
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_712",
@@ -10190,7 +10482,9 @@
       ],
       "mechanics": [
         "COMBO"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_713",
@@ -10282,7 +10576,9 @@
       ],
       "relatedDbfIds": [
         120806
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_713t",
@@ -10335,7 +10631,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_714",
@@ -10418,7 +10716,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_043",
@@ -10491,7 +10791,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_044",
@@ -10551,7 +10853,9 @@
       "relatedDbfIds": [
         120822,
         120823
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_044t1",
@@ -10609,7 +10913,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_044t2",
@@ -10668,7 +10974,9 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_715",
@@ -10714,7 +11022,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_716",
@@ -10760,7 +11070,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_720",
@@ -10859,7 +11171,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_045",
@@ -10948,7 +11262,9 @@
       "mechanics": [
         "POISONOUS",
         "REBORN"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_046",
@@ -11038,7 +11354,9 @@
       "mechanics": [
         "TAUNT",
         "DORMANT"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_047",
@@ -11121,7 +11439,9 @@
       ],
       "mechanics": [
         "STEALTH"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_048",
@@ -11199,7 +11519,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_441",
@@ -11256,7 +11578,9 @@
           "name": "되돌리기",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_049",
@@ -11335,7 +11659,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_434t",
@@ -11380,7 +11706,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_050",
@@ -11464,7 +11792,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_051",
@@ -11558,7 +11888,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_052",
@@ -11647,7 +11979,9 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_053",
@@ -11723,7 +12057,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_054",
@@ -11796,7 +12132,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_055",
@@ -11865,7 +12203,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_056",
@@ -11949,7 +12289,9 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_057",
@@ -12022,7 +12364,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_058",
@@ -12106,7 +12450,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "DORMANT"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_059",
@@ -12180,7 +12526,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_750",
@@ -12231,7 +12579,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_060",
@@ -12296,7 +12646,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_061",
@@ -12369,7 +12721,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_062",
@@ -12455,7 +12809,9 @@
         "TAUNT",
         "DIVINE_SHIELD",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_063",
@@ -12554,7 +12910,9 @@
       "mechanics": [
         "RUSH",
         "DORMANT"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_038t1",
@@ -12641,7 +12999,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_038t2",
@@ -12728,7 +13088,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_038t3",
@@ -12805,7 +13167,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_064",
@@ -12890,7 +13254,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_442",
@@ -12966,7 +13332,9 @@
         "DEATHRATTLE",
         "BATTLECRY",
         "DORMANT"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_443",
@@ -13016,7 +13384,9 @@
       "relatedDbfIds": [
         122715,
         121021
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_444",
@@ -13090,7 +13460,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_446",
@@ -13164,7 +13536,9 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_618",
@@ -13261,7 +13635,9 @@
       ],
       "relatedDbfIds": [
         123094
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_447",
@@ -13321,7 +13697,9 @@
       ],
       "mechanics": [
         "DIVINE_SHIELD"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_612",
@@ -13396,7 +13774,9 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_615",
@@ -13452,7 +13832,9 @@
           "name": "부정 룬",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_614",
@@ -13525,7 +13907,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_617",
@@ -13613,7 +13997,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_218",
@@ -13660,7 +14046,9 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_443t",
@@ -13714,7 +14102,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_448",
@@ -13778,7 +14168,9 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_449",
@@ -13824,7 +14216,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_100",
@@ -13914,7 +14308,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "DIVINE_SHIELD"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_002",
@@ -14006,7 +14402,9 @@
       "relatedDbfIds": [
         485,
         46054
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_004",
@@ -14099,7 +14497,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_005",
@@ -14178,7 +14578,9 @@
       ],
       "mechanics": [
         "OUTCAST"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_006",
@@ -14266,7 +14668,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_007",
@@ -14321,7 +14725,9 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_008",
@@ -14413,7 +14819,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_009",
@@ -14473,7 +14881,9 @@
       ],
       "relatedDbfIds": [
         121108
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_009t",
@@ -14528,7 +14938,9 @@
           "name": "게임 태그 2831",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_770",
@@ -14574,7 +14986,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_010",
@@ -14660,7 +15074,9 @@
       "relatedDbfIds": [
         121145,
         121147
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_010a",
@@ -14699,7 +15115,9 @@
           "name": "복수 직업",
           "value": 18
         }
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_010b",
@@ -14738,7 +15156,9 @@
           "name": "복수 직업",
           "value": 18
         }
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_011",
@@ -14824,7 +15244,9 @@
           "name": "성기사 오라",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_012",
@@ -14893,7 +15315,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_013",
@@ -15001,7 +15425,9 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_014",
@@ -15056,7 +15482,9 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_015",
@@ -15144,7 +15572,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_016",
@@ -15217,7 +15647,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_017",
@@ -15323,7 +15755,9 @@
       ],
       "relatedDbfIds": [
         121160
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_017t",
@@ -15410,7 +15844,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_018",
@@ -15494,7 +15930,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_019",
@@ -15583,7 +16021,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_020",
@@ -15644,7 +16084,9 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_021",
@@ -15727,7 +16169,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_022",
@@ -15809,7 +16253,9 @@
       ],
       "mechanics": [
         "SPELLPOWER"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_023",
@@ -15878,7 +16324,9 @@
       ],
       "mechanics": [
         "FREEZE"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_024",
@@ -15948,7 +16396,9 @@
       ],
       "mechanics": [
         "SECRET"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_025",
@@ -16017,7 +16467,9 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_026",
@@ -16109,7 +16561,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_027",
@@ -16173,7 +16627,9 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_028",
@@ -16236,7 +16692,9 @@
       ],
       "mechanics": [
         "OVERLOAD"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_029",
@@ -16313,7 +16771,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_030",
@@ -16408,7 +16868,9 @@
       "mechanics": [
         "TAUNT",
         "OVERLOAD"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_031",
@@ -16496,7 +16958,9 @@
       "mechanics": [
         "STEALTH",
         "SPELLPOWER"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_032",
@@ -16602,7 +17066,9 @@
         "COMBO",
         "IMMUNE",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_033",
@@ -16677,7 +17143,9 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_034",
@@ -16755,7 +17223,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_035",
@@ -16833,7 +17303,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_036",
@@ -16939,7 +17411,9 @@
         "TRIGGER_VISUAL",
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_037",
@@ -17018,7 +17492,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_620",
@@ -17072,7 +17548,9 @@
       ],
       "mechanics": [
         "SECRET"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_000",
@@ -17147,7 +17625,9 @@
       ],
       "relatedDbfIds": [
         121243
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_000p",
@@ -17202,7 +17682,9 @@
           "name": "되돌리기",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_003",
@@ -17271,7 +17753,9 @@
       ],
       "relatedDbfIds": [
         121272
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_003p",
@@ -17324,7 +17808,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "END_001",
@@ -17411,7 +17897,9 @@
       "relatedDbfIds": [
         121243,
         121272
-      ]
+      ],
+      "releasedAt": "2026-01-14",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_730",
@@ -17486,7 +17974,9 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_610t2",
@@ -17540,7 +18030,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_101",
@@ -17609,7 +18101,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_102",
@@ -17673,7 +18167,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_103",
@@ -17752,7 +18248,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_436t1",
@@ -17815,7 +18313,9 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_436t2",
@@ -17873,7 +18373,9 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_870t",
@@ -17940,7 +18442,9 @@
       ],
       "mechanics": [
         "STEALTH"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_704t",
@@ -17993,7 +18497,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_443t2",
@@ -18047,7 +18553,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_700t",
@@ -18109,7 +18617,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_707",
@@ -18163,7 +18673,9 @@
       ],
       "mechanics": [
         "CHOOSE_ONE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_036t",
@@ -18198,7 +18710,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_618t",
@@ -18256,7 +18770,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2025-11-05",
+      "releaseStatus": "verified"
     }
   ]
 }

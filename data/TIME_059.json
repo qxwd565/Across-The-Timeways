@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>모면</b>, <b>전투의 함성</b>:& <b>모면</b> 능력이 있는 2/1 살아 움직이는 모순을 둘 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

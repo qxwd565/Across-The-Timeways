@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "모든 하수인에게 피해를 $1 줍니다. 전하 충격을 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

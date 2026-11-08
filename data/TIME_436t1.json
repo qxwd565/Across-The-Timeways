@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "[x]비용이 (5) 이상인 용족을\n<b>발견</b>하여 소환합니다.\n<i>미래로 진행합니다!</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

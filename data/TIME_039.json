@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "상대편의 손에서 카드를 <b>발견</b>해서 복사해옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

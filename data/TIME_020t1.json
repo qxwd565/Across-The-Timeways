@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>생명력 흡수</b>\n내 영웅이 공격하여 하수인을 처치한 후에, 아르거스로 통하는 차원문을 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]이번 턴에 아군 캐릭터에게\n공격력 +2와 \"이 캐릭터가\n공격한 후에, 모든 적에게 피해를\n2 줌\" 능력을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

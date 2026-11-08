@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "<b>지속 능력</b>\n내 턴마다 처음 내는 언데드가 공격력을 +<b>@</b> 얻습니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

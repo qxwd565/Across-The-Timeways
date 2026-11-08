@@ -101,7 +101,9 @@
       }
     ],
     "nativeRawText": "5턴 동안 <b>휴면</b> 상태입니다. <b>속공</b>. 내가 최신 확장팩의 카드를 낸 후에, 1턴 일찍 깨어납니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>생명력 흡수</b>\n<b>천상의 보호막</b>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "[x]내 전장에 메디브가\n있으면 비용이 (0)이 됩니다.\n내 주문의 피해량과 치유량을\n2배 증가시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

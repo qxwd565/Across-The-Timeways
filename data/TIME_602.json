@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "<b>되돌리기</b>, 비용이 3인 무작위 야수를 소환합니다. 그 야수가 무작위 적을 공격합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

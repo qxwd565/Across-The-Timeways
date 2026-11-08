@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 내 덱에 있는\n하수인들에게 +1/+1을\n부여합니다. 내가 알레리아\n또는 실바나스를 냈으면\n그 수만큼 반복합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

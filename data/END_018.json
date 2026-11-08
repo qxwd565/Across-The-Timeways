@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 손에 있는\n무작위 카드의 비용을 무한대로 만듭니다! <b>죽음의 메아리:</b> 다시 원래대로 바꿉니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

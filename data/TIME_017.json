@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>천상의 보호막</b>, <b>죽음의_메아리:</b> <b>천상의 보호막</b> 능력이 있는 7/7 전차를 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

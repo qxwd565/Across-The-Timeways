@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "[x]내 손에 카드가 3장 이하\n있으면 내 영웅 능력의\n비용이 (0)이 됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

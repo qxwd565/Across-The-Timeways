@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "[x]언데드를 뽑습니다.\n내 영웅 능력을 두 번\n<b>연마</b>합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

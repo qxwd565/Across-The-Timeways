@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, 이번 게임에서 내가 낸 라팜 하나당 비용이 (1)씩 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

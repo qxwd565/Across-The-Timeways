@@ -87,7 +87,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성</b>: 내 영웅 능력을 <b>연마</b>합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

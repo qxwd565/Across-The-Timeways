@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "이제 내 턴이 시작될 때 카드를 뽑지 않습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

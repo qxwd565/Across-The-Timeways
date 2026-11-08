@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "내 덱에서 무작위 하수인을 소환합니다. 상대편에게 <b>은신</b> 능력이 있는 5/5 호랑이를 소환해줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

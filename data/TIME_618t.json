@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리:</b> <b>시체</b>를 최대 20개 소모하여 그만큼의 생명력을 가지고 부활합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

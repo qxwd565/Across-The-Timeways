@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]상대편에게 1/1 악마를 소환해\n줍니다. 그 악마가 죽으면\n카드를 뽑고 다음 차원문을\n내 덱에 섞어 넣습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

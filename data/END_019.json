@@ -92,7 +92,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>전투의 함성</b>: 이번 턴에 내 영웅이 피해를 받았으면,& +3/+3을 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

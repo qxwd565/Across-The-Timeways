@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "<b>되돌리기</b>, <b>되돌리기</b>,\n<b>되돌리기</b>, <b>전투의 함성:</b>\n무작위 <b>전설</b> 하수인을 둘 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "<b>되돌리기</b>, 마나의 합이 12인 무작위 하수인을 소환합니다. <b>과부하:</b> (3)",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

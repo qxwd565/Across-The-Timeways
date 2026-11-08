@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "내가 아티쉬를 장착했으면 비용이 (0)이 됩니다. 비용이 8인 무작위 하수인을 둘 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

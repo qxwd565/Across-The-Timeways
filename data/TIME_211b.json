@@ -44,7 +44,9 @@
       }
     ],
     "nativeRawText": "[x]영원의 샘으로 생성된\n주문들이 2번 시전됩니다.\n진아즈샤리를 파괴합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

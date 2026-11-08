@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 내 손에 있는 모든\n카드를 내 시작 카드로 교체합니다.\n내 턴이 끝날 때 원래 카드로\n돌아옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

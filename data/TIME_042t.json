@@ -44,7 +44,9 @@
       }
     ],
     "nativeRawText": "하수인에게 +1/+1을 부여합니다. <i>(이 카드는 내 손에 남습니다.)</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

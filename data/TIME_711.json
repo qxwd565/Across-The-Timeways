@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]비용이 1인 과거의\n무작위 하수인을 둘 소환합니다.\n<b>연계:</b> 그 하수인들에게\n공격력을 +1 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

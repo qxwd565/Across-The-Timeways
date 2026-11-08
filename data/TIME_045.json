@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>독성</b>, <b>환생</b>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -49,7 +49,9 @@
       }
     ],
     "nativeRawText": "[x]<b>뽑을 때 시전</b>\n내 영웅에게\n피해를 $3 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

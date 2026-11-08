@@ -72,7 +72,9 @@
       }
     ],
     "nativeRawText": "[x]하수인과 그 양옆에 있는\n하수인들을 <b>빙결</b>시킵니다.\n피해를 받은 하수인은\n처치합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

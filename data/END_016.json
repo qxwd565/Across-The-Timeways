@@ -77,7 +77,9 @@
       }
     ],
     "nativeRawText": "내 영웅이 공격한 후 비용이 가장 높은\n내 카드를 버립니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

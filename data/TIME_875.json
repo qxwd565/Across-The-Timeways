@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "<b>설화</b>, <b>전투의 함성:</b> 상대편의 손에 국왕 레인이 있으면, 국왕 레인을 처치하고 상대편의 생명력을 절반으로 감소시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

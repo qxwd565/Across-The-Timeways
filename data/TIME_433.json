@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "<b>되돌리기</b>\n무작위 적 하수인을 <b>침묵</b>시키고 처치합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

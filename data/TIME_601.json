@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성</b>:& 내 카드가 3장이 될 때까지 카드를 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -101,7 +101,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>전투의 함성</b>:& 이 하수인의 생명력이 2배가 됩니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

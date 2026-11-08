@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "내 영웅이 공격한 후에, 두 플레이어 모두 <b>전설</b> 카드를_뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

@@ -44,7 +44,9 @@
       }
     ],
     "nativeRawText": "진아즈샤리로 소환된 하수인들의 능력치가 2배가 됩니다. 영원의 샘을 파괴합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

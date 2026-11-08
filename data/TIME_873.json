@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "[x]방어도를 10 얻습니다.\n상대편에게 2/3 야수를\n둘 소환해 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

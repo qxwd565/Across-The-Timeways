@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>은신</b>, 이번 턴에\n적 영웅이 피해를 받을 때마다 비용이 (1) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

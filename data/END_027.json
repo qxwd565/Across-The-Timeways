@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "<b>어둠의 선물</b> 능력이 있는 과거의 용족을 <b>발견</b>합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

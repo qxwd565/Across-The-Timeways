@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]적에게 피해를 $3 주고\n다른 무작위 적 둘에게\n피해를 $2 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, <b>전투의 함성</b>:& 상대편의 전장을 비용이 1인 무작위 하수인으로 가득 채웁니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

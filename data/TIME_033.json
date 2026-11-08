@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>되돌리기</b>, <b>전투의 함성:</b> 무작위 자연 주문을 둘 시전합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "비용이 서로 다른 카드를 3장 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

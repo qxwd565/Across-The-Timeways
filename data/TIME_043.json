@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 아군 하수인의\n공격력과 생명력을 8로\n만듭니다. 그 하수인은 이번 턴에\n영웅을 공격할 수 없습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

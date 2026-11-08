@@ -49,7 +49,9 @@
       }
     ],
     "nativeRawText": "아무 행동도 하지 않습니다. <i>이 시간대가 딱 좋아요!</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

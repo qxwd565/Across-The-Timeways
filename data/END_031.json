@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "<b>은신</b>\n<b>주문 공격력 +1</b>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

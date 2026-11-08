@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성</b>: 내 전장에 오라가 있으면,& 모든 적에게 피해를 3 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

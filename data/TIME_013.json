@@ -104,7 +104,9 @@
       }
     ],
     "nativeRawText": "<b>모면</b>, 내가 주문을 시전한 후에& 과거의 자연 주문을 <b>발견</b>합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

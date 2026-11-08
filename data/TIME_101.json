@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "[x]내가 카드를 <b>분쇄</b>할 때마다\n모든 적 하수인에게\n피해를 2 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

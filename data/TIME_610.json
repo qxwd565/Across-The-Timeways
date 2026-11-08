@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>되돌리기</b>, 3/2 그림자를 넷 소환합니다. 그 그림자들이 무작위 <b>추가 효과</b>를 둘씩 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

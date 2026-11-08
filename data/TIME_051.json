@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, <b>전투의 함성</b>:& 이 하수인의 공격력이 2배가 됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

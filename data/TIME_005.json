@@ -119,7 +119,9 @@
       }
     ],
     "nativeRawText": "<b>설화+</b>. 내 덱의 카드 한도가 40이 되지만, 라팜이 10장 들어갑니다! <b>전투의_함성:</b> 나머지 라팜들을 냈으면 적 영웅을 처치합니다.@\n<i>({0} 남음!)</i>@\n<i>(준비됨!)</i>",
-    "nativeTextBuilder": 11
+    "nativeTextBuilder": 11,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

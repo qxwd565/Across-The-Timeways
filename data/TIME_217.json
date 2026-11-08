@@ -87,7 +87,9 @@
       }
     ],
     "nativeRawText": "내가 이 하수인에게 자연 주문으로 피해를 줄 때마다 대신 비용이 5인 무작위 하수인을 소환합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

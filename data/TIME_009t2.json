@@ -104,7 +104,9 @@
       }
     ],
     "nativeRawText": "[x]<b>교환성</b> 내 턴이 끝날 때\n무작위 아군 하수인에게\n+4/+4와 <b>천상의 보호막</b>을\n부여합니다. @턴 지속됩니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

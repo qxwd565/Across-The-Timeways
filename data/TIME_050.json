@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, 이 하수인이 피해를 받고 생존한 후에& 공격력과 생명력을 서로 바꿉니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

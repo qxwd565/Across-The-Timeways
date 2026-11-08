@@ -109,7 +109,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성</b>:&\n<b>어둠의 선물</b> 능력이 있는 비용이 1인 하수인을 <b>발견</b>합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

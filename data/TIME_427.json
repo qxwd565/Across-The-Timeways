@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>생명력 흡수</b>, <b>전투의 함성:</b> 이 하수인의 생명력만큼 적 하수인에게 피해를 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

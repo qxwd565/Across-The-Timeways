@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "모든 적에게 피해를 $2 줍니다. 축복을 선택해 브원삼디에게_부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

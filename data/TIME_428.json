@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "내 턴이 끝날 때,& 내 다른 하수인들에게 생명력을 +1 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

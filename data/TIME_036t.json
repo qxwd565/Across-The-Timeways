@@ -44,7 +44,9 @@
       }
     ],
     "nativeRawText": "상대편의 카드 비용을 (2) 증가시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

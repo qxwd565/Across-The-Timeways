@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "이 하수인은 내 손에 있으면 내 턴이 시작될 때마다 상대편의 손에 있는 무작위 하수인으로 변신합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

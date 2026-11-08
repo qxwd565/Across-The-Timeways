@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "[x]<b>도발</b>, <b>전투의 함성:</b> 내 덱\n맨 밑에 있는 카드 5장의\n비용을 (1)로 만듭니다.",
-    "nativeTextBuilder": 11
+    "nativeTextBuilder": 11,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

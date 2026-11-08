@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "내 턴이 끝날 때 무작위 암흑 주문을 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

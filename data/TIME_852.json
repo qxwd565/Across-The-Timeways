@@ -101,7 +101,9 @@
       }
     ],
     "nativeRawText": "<b>설화</b>, 내 전장에 다른 용족이 있으면, 내 비전 주문들의 비용이 (2) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

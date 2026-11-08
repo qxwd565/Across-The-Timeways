@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "내가 하수인에게 주문을 시전한 후에,& 카드를 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

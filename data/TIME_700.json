@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "내 턴이 끝날 때 <b>도발</b> 능력이 있는 3/5 용족을 소환합니다. @턴 지속됩니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "[x]3/2 악마를 둘 소환합니다.\n내 덱에 하수인이 없으면\n그 악마들이 생명력이 가장\n낮은 적을 공격합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "하수인을 2마리 <b>발견</b>합니다. 내 덱에 하수인이 없으면, 내 손에 있는 모든 하수인의 비용이 (2) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

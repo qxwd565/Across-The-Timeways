@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "[x]<b>도발</b>, 내가 이 하수인에게\n자연 주문으로 피해를\n줄 때마다 대신 +2/+1을\n얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

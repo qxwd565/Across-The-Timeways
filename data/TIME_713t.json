@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리:</b> 상대편의 손을 동전으로 가득 채웁니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

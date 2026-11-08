@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>전투의 함성:</b> 내 손에 다른 라팜이 있으면, 이 하수인을 복사하여 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

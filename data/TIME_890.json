@@ -99,7 +99,9 @@
       }
     ],
     "nativeRawText": "[x]<b>설화</b>, 내 전장에 카라잔이\n있으면 비용이 (0)이 됩니다.\n<b>전투의 함성:</b> 다른 모든 하수인을\n<b>침묵</b>시키고 처치합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

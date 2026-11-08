@@ -101,7 +101,9 @@
       }
     ],
     "nativeRawText": "[x]<b>설화</b>, <b>전투의 함성:</b> 브원삼디를\n뽑습니다. <i>(브원삼디가 죽었다면\n부활시킵니다.)</i> 축복을 선택해\n브원삼디에게 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

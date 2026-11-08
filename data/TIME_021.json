@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>추방자</b>:& 내 다음 턴까지 내 영웅이 <b>면역</b> 상태가 됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

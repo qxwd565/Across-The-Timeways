@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>생명력 흡수</b>, <b>전투의_함성:</b> 내 덱에 있는 시간의 편린을 시전하고 +3/+3을 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

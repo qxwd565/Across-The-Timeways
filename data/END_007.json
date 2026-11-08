@@ -62,7 +62,9 @@
       }
     ],
     "nativeRawText": "[x]피해를 $1 줍니다.\n이번 턴에 내 영웅이\n공격력을 +1 얻습니다.\n카드를 1장 뽑습니다.\n방어도를 1 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

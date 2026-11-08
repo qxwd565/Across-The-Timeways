@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "이 하수인이 피해를 받고 생존한 후에 비용이 7인 무작위 하수인으로 변신합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

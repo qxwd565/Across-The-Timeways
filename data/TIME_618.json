@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 내 영웅에게\n\"<b>죽음의_메아리:</b> <b>시체</b>를 최대 20개\n소모하여 그만큼의 생명력을 가지고\n부활함\" 능력을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

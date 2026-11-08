@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>\n<b>휴면</b> 상태인 하수인이 있으면 비용이 (4) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

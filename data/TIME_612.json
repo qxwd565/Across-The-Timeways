@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "주문을 <b>발견</b>합니다.\n이 카드는 마나 대신 생명력을 비용으로 사용합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

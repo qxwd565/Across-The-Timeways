@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>죽음의 메아리</b>:& 무작위 <b>되돌리기</b> 카드를 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

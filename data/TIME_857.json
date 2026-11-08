@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]과거의 비전 주문 둘을\n<b>발견</b>합니다. 그 주문들의\n비용이 (2) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

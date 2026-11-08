@@ -92,7 +92,9 @@
       }
     ],
     "nativeRawText": "내 턴이 시작될 때 일시적인 마나 수정을 얻습니다. @턴 지속됩니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

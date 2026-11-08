@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 덱에서 라팜을 <b>발견</b>합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

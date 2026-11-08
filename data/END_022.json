@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "피해를 받은 상태면 <b>주문_공격력_+2</b>를 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "아군 하수인에게 피해를 $2 주고 무작위 적 하수인에게 피해를 $4 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

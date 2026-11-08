@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]무작위 적 하수인에게\n피해를 5 줍니다.\n<i>현재로 진행합니다!</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

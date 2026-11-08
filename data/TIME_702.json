@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]피해를 $3 줍니다. 내 손에\n있을 때 하수인을 냈으면,\n방어도를 5 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "<b>되돌리기</b>\n무작위 하수인을 내 손으로 가져옵니다. 그 하수인의 비용이 (3) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

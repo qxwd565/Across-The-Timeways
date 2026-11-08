@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "비용이 (5) 이상인 무작위 악마를 <b>발견</b>합니다. 내 덱에 하수인이 없으면, 다음 하수인의 비용이 (1)이 됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

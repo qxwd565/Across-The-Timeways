@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>천상의 보호막</b>, <b>전투의_함성:</b> 내 영웅의 생명력을 #3 회복시키고 <b>천상의_보호막</b>을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

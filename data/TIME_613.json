@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리</b>:& 무작위 <b>전설</b> 하수인을 얻습니다. 그 하수인의 비용이 (1) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]이번 게임에서 죽은\n비용이 가장 높은\n아군 언데드를 소환합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

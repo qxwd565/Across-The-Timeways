@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "[x]영웅을 공격할 수 없습니다.\n<b>전투의 함성:</b> 이번 턴에\n이 무기의 공격력을\n무한대로 만듭니다!",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

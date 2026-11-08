@@ -107,7 +107,9 @@
       }
     ],
     "nativeRawText": "<b>퀘스트:</b> 내 손을 가득 채운 후, 손을 비워야 합니다.\n<b>보상: </b>재깍 재깍",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리:</b> 무작위\n적 하수인을 공격하는 4/1 그림자를 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

@@ -97,7 +97,9 @@
       }
     ],
     "nativeRawText": "<b>모면</b>, <b>도발</b>. 이번 게임에서 <b>과부하</b>된 내 마나 수정 하나당 비용이 (1)씩 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

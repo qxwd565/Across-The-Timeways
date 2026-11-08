@@ -109,7 +109,9 @@
       }
     ],
     "nativeRawText": "내 <b>되돌리기</b>가 두 가지 가능한 결과를 모두 유지합니다. <b>전투의_함성:</b> 무작위 직업의 <b>되돌리기</b> 카드를 <b>발견</b>합니다. ",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

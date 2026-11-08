@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>비밀:</b> 내 적의 턴이 끝날 때, 생명력이 가장 높은 적 하수인에게 무한대의 피해를 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

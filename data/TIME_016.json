@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "[x]과거의 성기사 기계를\n<b>발견</b>합니다. 그 하수인에게\n+5/+5를 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

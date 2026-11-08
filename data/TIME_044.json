@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "하수인에게 +2/+1을 부여합니다. <i>현재로 진행합니다!</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

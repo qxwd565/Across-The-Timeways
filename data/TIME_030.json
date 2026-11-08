@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "내 손에 있는 무작위 하수인을 반반으로 나눕니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

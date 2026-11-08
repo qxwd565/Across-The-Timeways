@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성과\n죽음의 메아리:</b>\n라팜을 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

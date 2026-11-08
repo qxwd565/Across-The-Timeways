@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]모든 적에게 $6의 피해를\n무작위로 나누어 입힙니다.\n시간의 편린 2개를\n내 덱에 섞어 넣습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

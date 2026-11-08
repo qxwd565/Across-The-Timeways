@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "하수인에게 피해를 $5 줍니다.\n그 하수인이 생존하면 카드를 2장 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

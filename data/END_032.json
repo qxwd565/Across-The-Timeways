@@ -104,7 +104,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, <b><b>연계:</b> (2)만큼 과부하</b>되어 이번 턴에 <b>면역</b>을 얻고, <b>질풍</b>을 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

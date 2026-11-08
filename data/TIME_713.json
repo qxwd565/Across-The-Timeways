@@ -92,7 +92,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b>\n상대편에게 0/8 상자를 소환해줍니다. <i>동전이 가득 든 걸로요!</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

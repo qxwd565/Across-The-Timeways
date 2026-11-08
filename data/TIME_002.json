@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>되돌리기</b>, <b>전투의 함성:</b>\n내 직업의 무작위 주문을 둘 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "내 손을 무작위 <b>일시적인</b> 주문으로 가득 채웁니다. 그 주문들이 2번 시전됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

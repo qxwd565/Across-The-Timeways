@@ -82,7 +82,9 @@
       }
     ],
     "nativeRawText": "[x]비용이 4인 무작위\n하수인을 소환합니다. <b>시체</b>를\n4개 소모해서 하나 더 소환합니다.\n<b>추방자:</b> 하나 더 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

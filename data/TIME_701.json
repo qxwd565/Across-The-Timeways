@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "내 덱에서 카드를 <b>발견</b>합니다. 나머지는 내 덱 맨 아래에 놓습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

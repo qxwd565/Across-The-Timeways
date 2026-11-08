@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리:</b> 비용이 @인 무작위 하수인을 소환합니다. <i>(브원삼디에게 부여된 모든 축복을 넘겨줍니다.)</i>",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 이번 턴과 다음 턴, 그다음 턴에 내 영웅에게 공격력을 +3 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

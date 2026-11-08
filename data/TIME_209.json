@@ -104,7 +104,9 @@
       }
     ],
     "nativeRawText": "<b>설화</b>, <b>속공</b>, <b>전투의 함성:</b> 국왕의 망치를 내게 가져오라!\n<b>죽음의_메아리:</b> 국왕의 망치를 내 손으로 가져옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

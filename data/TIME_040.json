@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리</b>:& 비용이 5인 과거의 무작위 하수인을 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

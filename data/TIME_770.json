@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "[x]카드를 2장 뽑습니다.\n그중 하나를 선택해\n비용을 (2) 감소시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

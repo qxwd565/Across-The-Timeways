@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "2/2 나무정령을 둘 소환합니다. 이번 게임에서 죽은 아군 나무정령 하나당\n그 나무정령들이 +1/+1을 얻습니다.@ <i>(@)</i>",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

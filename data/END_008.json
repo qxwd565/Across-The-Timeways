@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "내가 영웅 능력을 사용한 후& 마나 수정을 2개 회복합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

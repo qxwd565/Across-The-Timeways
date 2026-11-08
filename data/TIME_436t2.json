@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "비용이 (5) 이상인 용족을 <b>발견</b>하여 소환합니다. 그 용족을 복사하여 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, <b>전투의 함성:</b> 내 덱에 있는 시간의 편린을 시전하고 이 하수인을 복사하여 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

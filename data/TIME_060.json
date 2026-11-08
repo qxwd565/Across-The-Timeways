@@ -71,7 +71,9 @@
       }
     ],
     "nativeRawText": "이 하수인이 받는\n모든 피해가 두 배 증가합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

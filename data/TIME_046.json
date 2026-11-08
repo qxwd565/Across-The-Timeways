@@ -92,7 +92,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, 3턴 동안 <b>휴면</b> 상태입니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

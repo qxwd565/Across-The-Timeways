@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "[x]<b>환생</b>. <b>죽음의 메아리</b>: 1/2\n단검을 장착합니다. 이미\n무기를 장착하고 있으면\n대신 그 무기에 공격력을\n+2 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

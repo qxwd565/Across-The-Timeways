@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "내 손과 덱을 과거의 무작위 <b>선택</b> 카드로 교체합니다. 그 카드들의 비용이 (1) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

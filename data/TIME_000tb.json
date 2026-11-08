@@ -49,7 +49,9 @@
       }
     ],
     "nativeRawText": "카드의 효과를 <b>되돌립니다</b>.",
-    "nativeTextBuilder": 23
+    "nativeTextBuilder": 23,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

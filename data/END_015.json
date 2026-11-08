@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>유사 및 죽음의 메아리</b>:& 무작위 <b>죽음의 메아리</b> 하수인을 얻습니다. 그 하수인의 비용이 (2) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

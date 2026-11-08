@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>죽음의 메아리</b>:& 과거의 무작위 하수인을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

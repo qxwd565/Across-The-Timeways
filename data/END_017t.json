@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 손이 가득 찰 때까지 카드를 뽑습니다. <b>죽음의 메아리:</b> 상대편의 손을 비웁니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-01-14",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "생명력이 가장 낮은 적 하수인에게 피해를 5 줍니다. 초과한 피해량만큼 적 영웅에게 피해를 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

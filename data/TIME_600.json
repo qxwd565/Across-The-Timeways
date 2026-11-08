@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]피해를 $3 줍니다. 이 카드가\n내 손의 정중앙에 있었다면\n대신 피해를 $5 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

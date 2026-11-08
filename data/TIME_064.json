@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "내 <b>전투의 함성</b>, <b>죽음의_메아리</b>, 영웅 능력, 턴이 끝날 때 발동하는 효과가 2번 발동합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

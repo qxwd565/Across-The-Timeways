@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "[x]<b>설화</b>, <b>선택 -</b>\n진아즈샤리를 강화합니다.\n또는 영원의 샘을 강화합니다.\n<i>(다른 쪽은 파괴됩니다!)</i>",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

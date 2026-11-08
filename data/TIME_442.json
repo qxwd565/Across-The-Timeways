@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 적 하수인을 감금합니다. 그 하수인이 10,000턴 동안 <b>휴면</b> 상태가 됩니다. <b>죽음의 메아리:</b> 그 하수인을 깨웁니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-11-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],
