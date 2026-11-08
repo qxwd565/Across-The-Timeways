@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "timezone": "Asia/Seoul",
+  "default": {
+    "date": "2025-11-05",
+    "status": "verified"
+  },
+  "prefixes": {
+    "TIME_": {
+      "date": "2025-11-05",
+      "status": "verified"
+    },
+    "END_": {
+      "date": "2026-01-14",
+      "status": "verified"
+    }
+  },
+  "cards": {},
+  "sources": {
+    "main": "https://hearthstone.blizzard.com/ko-kr/expansions-adventures/across-the-timeways",
+    "mini": "https://hearthstone.blizzard.com/ko-kr/news/24245105"
+  }
+}
