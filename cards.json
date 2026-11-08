@@ -61,7 +61,10 @@
       "relatedDbfIds": [
         119589,
         119636
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_810",
@@ -121,7 +124,11 @@
       "relatedDbfIds": [
         119168,
         119169
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_810t1",
@@ -171,7 +178,12 @@
           "name": "마우스를 올리면 카드 표시",
           "value": 119169
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_810t2",
@@ -216,7 +228,12 @@
           "name": "희귀도",
           "value": 4
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_001",
@@ -267,7 +284,11 @@
           "name": "되돌리기",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_002",
@@ -336,7 +357,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_003",
@@ -358,7 +383,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -419,7 +444,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_004",
@@ -441,7 +468,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -497,7 +524,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_005",
@@ -623,7 +652,11 @@
         119446,
         119450,
         119562
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_005t1",
@@ -631,7 +664,7 @@
       "name": "작은 라팜",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>전투의 함성과\n죽음의 메아리:</b>\n라팜을 뽑습니다.",
@@ -702,7 +735,12 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_005t2",
@@ -710,7 +748,7 @@
       "name": "녹색 라팜",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "<b>전투의 함성:</b> 내 손과\n전장에 있는 다른 라팜들에게 +2/+2를 부여합니다.",
@@ -775,7 +813,12 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_005t3",
@@ -783,7 +826,7 @@
       "name": "탐험가 라팜",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "<b>전투의 함성:</b> 내 덱에서 라팜을 <b>발견</b>합니다.",
@@ -859,7 +902,12 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_005t4",
@@ -867,7 +915,7 @@
       "name": "대족장 라팜",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 5,
       "text": "<b>전투의 함성:</b> 방어도를 5 얻습니다. 내 손에 다른 라팜이 있으면, 추가로 5 더 얻습니다.",
@@ -932,7 +980,12 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_005t5",
@@ -940,7 +993,7 @@
       "name": "정신파괴자 라팜",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 7,
       "text": "<b>도발</b>, <b>전투의 함성:</b> 내 손에 다른 라팜이 있으면, 이 하수인을 복사하여 소환합니다.",
@@ -1011,7 +1064,12 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_005t6",
@@ -1019,7 +1077,7 @@
       "name": "재앙의 라팜",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 6,
       "text": "<b>전투의 함성:</b> 라팜이 아닌 모든 하수인에게 피해를 6 줍니다.",
@@ -1032,7 +1090,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -1093,7 +1151,10 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_005t7",
@@ -1101,7 +1162,7 @@
       "name": "거인 라팜",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 8,
       "text": "<b>속공</b>, 이번 게임에서 내가 낸 라팜 하나당 비용이 (1)씩 감소합니다.",
@@ -1166,7 +1227,12 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_005t8",
@@ -1174,7 +1240,7 @@
       "name": "멀록 라팜",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "<b>전투의 함성:</b> 다음에 내가\n내는 라팜의 비용이\n(3) 감소합니다.",
@@ -1187,7 +1253,7 @@
       "races": [
         "MURLOC"
       ],
-      "race": "MURLOC",
+      "race": "멀록",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -1248,7 +1314,10 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_005t9",
@@ -1256,7 +1325,7 @@
       "name": "대마법사 라팜",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 9,
       "text": "<b>전투의 함성:</b> 라팜이\n아닌 모든 하수인을 1/1\n양으로 변신시킵니다.",
@@ -1321,7 +1390,12 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_850",
@@ -1420,7 +1494,11 @@
       "relatedDbfIds": [
         119453,
         119454
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_850t",
@@ -1428,7 +1506,7 @@
       "name": "피의 투사 브롤",
       "type": "MINION",
       "cardClass": "WARRIOR",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 7,
       "text": "<b>도발</b>, <b>죽음의 메아리:</b> 내 손에서\n피의 투사를 소환합니다.\n그 투사에게 +5/+5와\n<b>도발</b>을 부여합니다.",
@@ -1494,7 +1572,12 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_850t1",
@@ -1502,7 +1585,7 @@
       "name": "피의 투사 발리라",
       "type": "MINION",
       "cardClass": "WARRIOR",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 7,
       "text": "<b>모면</b>, <b>죽음의 메아리:</b> 내 손에서\n피의 투사를 소환합니다.\n그 투사에게 +5/+5와\n<b>모면</b>을 부여합니다.",
@@ -1567,7 +1650,12 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_852",
@@ -1589,7 +1677,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -1666,7 +1754,9 @@
       "relatedDbfIds": [
         119527,
         119525
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_852t3",
@@ -1674,7 +1764,7 @@
       "name": "하늘빛 서약의 돌",
       "type": "SPELL",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 8,
       "text": "이번 게임에서 죽은\n내 용족 하수인들을\n소환합니다.",
@@ -1716,7 +1806,12 @@
           "name": "설화 보너스 카드",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_852t1",
@@ -1724,7 +1819,7 @@
       "name": "하늘빛 왕 말리고스",
       "type": "MINION",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 5,
       "text": "내 전장에 다른 용족이 있으면, 내 비전 주문들이 두 번 시전됩니다.",
@@ -1737,7 +1832,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -1790,7 +1885,10 @@
           "name": "설화 보너스 카드",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_855",
@@ -1842,7 +1940,10 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_006",
@@ -1899,7 +2000,11 @@
       ],
       "relatedDbfIds": [
         119916
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_008",
@@ -1968,7 +2073,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_005t9t",
@@ -1976,7 +2085,7 @@
       "name": "매애애팜",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -1989,7 +2098,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -2027,7 +2136,10 @@
           "name": "게임 태그 3928",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_000ta",
@@ -2035,7 +2147,7 @@
       "name": "시간대 유지하기",
       "type": "SPELL",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "아무 행동도 하지 않습니다. <i>이 시간대가 딱 좋아요!</i>",
@@ -2067,7 +2179,12 @@
           "name": "게임 태그 4412",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_856",
@@ -2089,7 +2206,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -2140,7 +2257,9 @@
       ],
       "mechanics": [
         "SPELLPOWER"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_857",
@@ -2200,7 +2319,10 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_000tb",
@@ -2208,7 +2330,7 @@
       "name": "시간대 되돌리기",
       "type": "SPELL",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "카드의 효과를 <b>되돌립니다</b>.",
@@ -2240,7 +2362,12 @@
           "name": "되돌리기",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_209",
@@ -2345,7 +2472,11 @@
       "relatedDbfIds": [
         119647,
         119653
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_209t",
@@ -2353,7 +2484,7 @@
       "name": "국왕의 망치",
       "type": "WEAPON",
       "cardClass": "SHAMAN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 6,
       "text": "<b>질풍</b>, <b>죽음의 메아리:</b>\n이 무기에 영구히 공격력을\n+2 부여하고 내 덱에\n섞어 넣습니다.",
@@ -2424,7 +2555,12 @@
       "mechanics": [
         "WINDFURY",
         "DEATHRATTLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_858",
@@ -2446,7 +2582,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -2497,7 +2633,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_209t2",
@@ -2505,7 +2643,7 @@
       "name": "화신 형상",
       "type": "SPELL",
       "cardClass": "SHAMAN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "이번 턴에 아군 캐릭터에게\n공격력 +2와 \"이 캐릭터가\n공격한 후에, 모든 적에게 피해를\n2 줌\" 능력을 부여합니다.",
@@ -2547,7 +2685,12 @@
           "name": "설화 보너스 카드",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_013",
@@ -2647,7 +2790,11 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_014",
@@ -2706,7 +2853,11 @@
       ],
       "mechanics": [
         "OVERLOAD"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_859",
@@ -2758,7 +2909,10 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_600",
@@ -2809,7 +2963,11 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_603",
@@ -2831,7 +2989,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -2887,7 +3045,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_605",
@@ -2909,7 +3069,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -2981,7 +3141,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_606",
@@ -3042,7 +3204,11 @@
           "name": "지속 효과",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_609t1",
@@ -3050,7 +3216,7 @@
       "name": "순찰대장 알레리아",
       "type": "MINION",
       "cardClass": "HUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "<b>전투의 함성:</b> 주문을 <b>발견</b>합니다. 내가 실바나스 또는 베리사를 냈으면 그 수만큼 반복합니다.",
@@ -3116,7 +3282,12 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_609t2",
@@ -3124,7 +3295,7 @@
       "name": "순찰대 수습생 베리사",
       "type": "MINION",
       "cardClass": "HUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "<b>전투의 함성:</b> 내 덱에 있는\n하수인들에게 +1/+1을\n부여합니다. 내가 알레리아\n또는 실바나스를 냈으면\n그 수만큼 반복합니다.",
@@ -3184,7 +3355,12 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_609",
@@ -3277,7 +3453,11 @@
       "relatedDbfIds": [
         119705,
         119706
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_860",
@@ -3352,7 +3532,11 @@
       "mechanics": [
         "BATTLECRY",
         "SECRET"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_861",
@@ -3426,7 +3610,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_870",
@@ -3488,7 +3676,11 @@
       ],
       "relatedDbfIds": [
         122348
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_871",
@@ -3510,7 +3702,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -3577,7 +3769,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_872",
@@ -3662,7 +3856,11 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_873",
@@ -3711,7 +3909,11 @@
       ],
       "relatedDbfIds": [
         119787
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_873t",
@@ -3719,7 +3921,7 @@
       "name": "원형경기장 악어",
       "type": "MINION",
       "cardClass": "WARRIOR",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "",
@@ -3732,7 +3934,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -3765,7 +3967,10 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_875",
@@ -3858,7 +4063,11 @@
       "relatedDbfIds": [
         119815,
         119816
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_875t",
@@ -3866,7 +4075,7 @@
       "name": "국왕 레인",
       "type": "MINION",
       "cardClass": "ROGUE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "<b>개전:</b> 가로나로부터 숨어\n적의 덱으로 들어갑니다.\n<b>전투의 함성:</b> 카드를 뽑습니다.\n이 카드를 내 덱에 섞어\n넣습니다.",
@@ -3937,7 +4146,12 @@
       "mechanics": [
         "BATTLECRY",
         "START_OF_GAME"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_875t1",
@@ -3945,7 +4159,7 @@
       "name": "국왕 시해자",
       "type": "WEAPON",
       "cardClass": "ROGUE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "내 영웅이 공격한 후에, 두 플레이어 모두 <b>전설</b> 카드를 뽑습니다.",
@@ -4005,7 +4219,12 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_876",
@@ -4061,7 +4280,11 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_006t1",
@@ -4069,7 +4292,7 @@
       "name": "거울에 비친 마법사",
       "type": "MINION",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>도발</b>",
@@ -4109,7 +4332,12 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_009",
@@ -4131,7 +4359,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -4211,7 +4439,9 @@
       "relatedDbfIds": [
         119919,
         119920
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_009t1",
@@ -4219,7 +4449,7 @@
       "name": "노움의 오라",
       "type": "SPELL",
       "cardClass": "PALADIN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "<b>교환성</b> 내 턴이 끝날 때\n모든 아군 캐릭터의\n생명력을 #4 회복시킵니다.\n3턴 지속됩니다.",
@@ -4305,7 +4535,11 @@
       ],
       "mechanics": [
         "TRADEABLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_009t2",
@@ -4313,7 +4547,7 @@
       "name": "멕카토크의 오라",
       "type": "SPELL",
       "cardClass": "PALADIN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 5,
       "text": "<b>교환성</b> 내 턴이 끝날 때\n무작위 아군 하수인에게\n+4/+4와 <b>천상의 보호막</b>을\n부여합니다. 3턴 지속됩니다.",
@@ -4405,7 +4639,11 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "TRADEABLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_211",
@@ -4497,7 +4735,11 @@
         120202,
         120205,
         120200
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_211t1",
@@ -4505,7 +4747,7 @@
       "name": "영원의 샘",
       "type": "LOCATION",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "내 손을 무작위 <b>일시적인</b> 주문으로 가득 채웁니다.",
@@ -4552,7 +4794,12 @@
           "name": "설화 보너스 카드",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_211t2",
@@ -4560,7 +4807,7 @@
       "name": "진아즈샤리",
       "type": "LOCATION",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "아군 하수인을\n복사하여 소환합니다.",
@@ -4602,7 +4849,12 @@
           "name": "설화 보너스 카드",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_015",
@@ -4624,7 +4876,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -4681,7 +4933,9 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_016",
@@ -4746,7 +5000,10 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_017",
@@ -4768,7 +5025,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -4828,7 +5085,9 @@
       ],
       "relatedDbfIds": [
         2047
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_018",
@@ -4885,7 +5144,10 @@
           "name": "되돌리기",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_019",
@@ -4907,7 +5169,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -4963,7 +5225,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_890",
@@ -5061,7 +5325,11 @@
       "relatedDbfIds": [
         120064,
         120068
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_890t",
@@ -5069,7 +5337,7 @@
       "name": "대지팡이 아티쉬",
       "type": "WEAPON",
       "cardClass": "PRIEST",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 10,
       "text": "내 전장에 메디브가\n있으면 비용이 (0)이 됩니다.\n내 주문의 피해량과 치유량을\n2배 증가시킵니다.",
@@ -5121,7 +5389,12 @@
           "name": "설화 보너스 카드",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_890t2",
@@ -5129,7 +5402,7 @@
       "name": "성소 카라잔",
       "type": "LOCATION",
       "cardClass": "PRIEST",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 10,
       "text": "내가 아티쉬를 장착했으면 비용이 (0)이 됩니다. 비용이 8인 무작위 하수인을 둘 소환합니다.",
@@ -5176,7 +5449,12 @@
           "name": "설화 보너스 카드",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_020",
@@ -5292,7 +5570,11 @@
         120167,
         120168,
         120169
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_020t1",
@@ -5300,7 +5582,7 @@
       "name": "세나리우스의 도끼",
       "type": "WEAPON",
       "cardClass": "DEMONHUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "<b>생명력 흡수</b>\n내 영웅이 공격하여 하수인을 처치한 후에, 아르거스로 통하는 차원문을 뽑습니다.",
@@ -5366,7 +5648,12 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "LIFESTEAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_020t2",
@@ -5374,7 +5661,7 @@
       "name": "아르거스로 통하는 첫 번째 차원문",
       "type": "SPELL",
       "cardClass": "DEMONHUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "상대편에게 1/1 악마를 소환해\n줍니다. 그 악마가 죽으면\n카드를 뽑고 다음 차원문을\n내 덱에 섞어 넣습니다.",
@@ -5417,7 +5704,11 @@
           "name": "설화 보너스 카드",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_020t2t",
@@ -5425,7 +5716,7 @@
       "name": "도망치는 우르줄",
       "type": "MINION",
       "cardClass": "DEMONHUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>죽음의 메아리:</b> 상대편이 카드를 뽑습니다. 아르거스로 통하는 두 번째 차원문을 상대편의 덱에 섞어 넣습니다.",
@@ -5438,7 +5729,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -5479,7 +5770,10 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_020t3",
@@ -5487,7 +5781,7 @@
       "name": "아르거스로 통하는 두 번째 차원문",
       "type": "SPELL",
       "cardClass": "DEMONHUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "상대편에게 2/1 악마를 소환해\n줍니다. 그 악마가 죽으면\n카드를 뽑고 다음 차원문을\n내 덱에 섞어 넣습니다.",
@@ -5525,7 +5819,11 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_020t3t",
@@ -5533,7 +5831,7 @@
       "name": "도망치는 인큐버스",
       "type": "MINION",
       "cardClass": "DEMONHUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "<b>죽음의 메아리:</b> 상대편이 카드를 뽑습니다. 아르거스로 통하는 세 번째 차원문을 상대편의 덱에 섞어 넣습니다.",
@@ -5546,7 +5844,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -5587,7 +5885,10 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_020t4",
@@ -5595,7 +5896,7 @@
       "name": "아르거스로 통하는 세 번째 차원문",
       "type": "SPELL",
       "cardClass": "DEMONHUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "상대편에게 3/1 악마를 소환해\n줍니다. 그 악마가 죽으면\n카드를 뽑고 다음 차원문을\n내 덱에 섞어 넣습니다.",
@@ -5633,7 +5934,11 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_020t4t",
@@ -5641,7 +5946,7 @@
       "name": "도망치는 격노수호병",
       "type": "MINION",
       "cardClass": "DEMONHUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "<b>죽음의 메아리:</b> 상대편이 카드를 뽑습니다. 아르거스로 통하는 마지막 차원문을 상대편의 덱에 섞어 넣습니다.",
@@ -5654,7 +5959,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -5695,7 +6000,10 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_020t5",
@@ -5703,7 +6011,7 @@
       "name": "아르거스로 통하는 마지막 차원문",
       "type": "SPELL",
       "cardClass": "DEMONHUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "상대편에게 4/1 악마를 소환해줍니다. 그 악마가 죽으면 브록시가르가 내 손에 다시 나타납니다.",
@@ -5741,7 +6049,11 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_020t5t",
@@ -5749,7 +6061,7 @@
       "name": "도망치는 공포수호병",
       "type": "MINION",
       "cardClass": "DEMONHUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "<b>죽음의 메아리:</b>\n브록시가르가 상대편의\n손에 다시 나타납니다.",
@@ -5762,7 +6074,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -5803,7 +6115,10 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_212",
@@ -5855,7 +6170,10 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_214",
@@ -5877,7 +6195,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -5934,7 +6252,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "TAUNT"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_215",
@@ -5994,7 +6314,10 @@
       ],
       "relatedDbfIds": [
         121020
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_217",
@@ -6017,7 +6340,7 @@
         "ELEMENTAL",
         "BEAST"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령, 야수",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -6078,7 +6401,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_021",
@@ -6153,7 +6478,11 @@
       "mechanics": [
         "IMMUNE",
         "OUTCAST"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_022",
@@ -6175,7 +6504,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -6232,7 +6561,9 @@
       "mechanics": [
         "RUSH",
         "DORMANT"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_619",
@@ -6254,7 +6585,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -6337,7 +6668,9 @@
         120184,
         120185,
         120186
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_619t3",
@@ -6345,7 +6678,7 @@
       "name": "힘의 축복",
       "type": "SPELL",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "브원삼디에게 <i>영구히</i> <b>도발</b>을 부여합니다. 브원삼디가 <b>죽음의 메아리</b>로 소환하는 하수인들의 비용이 (2) 증가합니다.",
@@ -6386,7 +6719,12 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_619t4",
@@ -6394,7 +6732,7 @@
       "name": "장수의 축복",
       "type": "SPELL",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "브원삼디에게 <i>영구히</i> <b>생명력 흡수</b>를 부여합니다. 브원삼디가 <b>죽음의 메아리</b>로 소환하는 하수인들의 비용이 (2) 증가합니다.",
@@ -6435,7 +6773,12 @@
       "mechanics": [
         "DEATHRATTLE",
         "LIFESTEAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_619t5",
@@ -6443,7 +6786,7 @@
       "name": "속도의 축복",
       "type": "SPELL",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "브원삼디에게 <i>영구히</i> <b>속공</b>을 부여합니다. 브원삼디가 <b>죽음의 메아리</b>로 소환하는 하수인들의 비용이 (2) 증가합니다.",
@@ -6484,7 +6827,12 @@
       "mechanics": [
         "DEATHRATTLE",
         "RUSH"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_619t",
@@ -6492,7 +6840,7 @@
       "name": "브원삼디",
       "type": "MINION",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 6,
       "text": "<b>죽음의 메아리:</b> 비용이 4인 무작위 하수인을 소환합니다. <i>(브원삼디에게 부여된 모든 축복을 넘겨줍니다.)</i>",
@@ -6505,7 +6853,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -6571,7 +6919,10 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_619t2",
@@ -6579,7 +6930,7 @@
       "name": "잔달라에 닥친 일",
       "type": "SPELL",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "모든 적에게 피해를 $2 줍니다. 축복을 선택해 브원삼디에게 부여합니다.",
@@ -6621,7 +6972,12 @@
           "name": "설화 보너스 카드",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_211t1t",
@@ -6629,7 +6985,7 @@
       "name": "영원의 샘",
       "type": "LOCATION",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "내 손을 무작위 <b>일시적인</b> 주문으로 가득 채웁니다. 그 주문들이 2번 시전됩니다.",
@@ -6671,7 +7027,12 @@
           "name": "게임 태그 3630",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_211t2t",
@@ -6679,7 +7040,7 @@
       "name": "진아즈샤리",
       "type": "LOCATION",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "아군 하수인을 능력치\n2배로 복사하여\n소환합니다.",
@@ -6716,7 +7077,12 @@
           "name": "카드 유형",
           "value": 39
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_211a",
@@ -6724,7 +7090,7 @@
       "name": "진아즈샤리 강화",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 5,
       "text": "진아즈샤리로 소환된 하수인들의 능력치가 2배가 됩니다. 영원의 샘을 파괴합니다.",
@@ -6751,7 +7117,12 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_211b",
@@ -6759,7 +7130,7 @@
       "name": "샘 강화",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 5,
       "text": "영원의 샘으로 생성된\n주문들이 2번 시전됩니다.\n진아즈샤리를 파괴합니다.",
@@ -6786,7 +7157,12 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_023",
@@ -6832,7 +7208,11 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_616",
@@ -6884,7 +7264,10 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_024",
@@ -6906,7 +7289,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -6967,7 +7350,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_611",
@@ -7032,7 +7417,10 @@
       ],
       "mechanics": [
         "FREEZE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_213",
@@ -7106,7 +7494,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_216",
@@ -7158,7 +7550,10 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_427",
@@ -7180,7 +7575,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -7237,7 +7632,9 @@
       "mechanics": [
         "BATTLECRY",
         "LIFESTEAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_428",
@@ -7259,7 +7656,7 @@
       "races": [
         "MURLOC"
       ],
-      "race": "MURLOC",
+      "race": "멀록",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -7325,7 +7722,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_429",
@@ -7347,7 +7746,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "DRAENEI",
+      "race": "드레나이",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -7403,7 +7802,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_431",
@@ -7473,7 +7874,11 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_432",
@@ -7532,7 +7937,11 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_613",
@@ -7606,7 +8015,11 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_025",
@@ -7628,7 +8041,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -7682,7 +8095,9 @@
       ],
       "relatedDbfIds": [
         120483
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_025t",
@@ -7690,7 +8105,7 @@
       "name": "시간의 편린",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "<b>뽑을 때 시전</b>\n내 영웅에게\n피해를 $3 줍니다.",
@@ -7725,7 +8140,12 @@
       ],
       "mechanics": [
         "CASTS_WHEN_DRAWN"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_026",
@@ -7774,7 +8194,11 @@
       ],
       "relatedDbfIds": [
         120483
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_027",
@@ -7828,7 +8252,11 @@
       ],
       "relatedDbfIds": [
         120483
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_028",
@@ -7850,7 +8278,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -7910,7 +8338,9 @@
       ],
       "relatedDbfIds": [
         120483
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_029",
@@ -7932,7 +8362,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -7992,7 +8422,9 @@
       ],
       "relatedDbfIds": [
         120483
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_030",
@@ -8044,7 +8476,10 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_031",
@@ -8100,7 +8535,11 @@
           "name": "게임 태그 3169",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_032",
@@ -8122,7 +8561,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -8183,7 +8622,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_433",
@@ -8244,7 +8685,11 @@
           "name": "되돌리기",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_033",
@@ -8313,7 +8758,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_602",
@@ -8364,7 +8813,11 @@
           "name": "되돌리기",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_034",
@@ -8386,7 +8839,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -8442,7 +8895,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_035",
@@ -8464,7 +8919,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -8531,7 +8986,9 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_434",
@@ -8598,7 +9055,11 @@
       ],
       "relatedDbfIds": [
         120946
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_610",
@@ -8668,7 +9129,10 @@
       ],
       "relatedDbfIds": [
         121462
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_036",
@@ -8735,7 +9199,11 @@
       ],
       "relatedDbfIds": [
         122962
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_435",
@@ -8757,7 +9225,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -8818,7 +9286,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_436",
@@ -8878,7 +9348,11 @@
       "relatedDbfIds": [
         122262,
         122263
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_037",
@@ -8952,7 +9426,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_700",
@@ -9040,7 +9518,10 @@
       ],
       "relatedDbfIds": [
         122736
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_038",
@@ -9062,7 +9543,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -9138,7 +9619,9 @@
         120982,
         120983,
         120984
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_039",
@@ -9197,7 +9680,11 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_701",
@@ -9262,7 +9749,10 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_702",
@@ -9314,7 +9804,10 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_703",
@@ -9336,7 +9829,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -9393,7 +9886,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_704",
@@ -9476,7 +9971,11 @@
       ],
       "relatedDbfIds": [
         122590
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_705",
@@ -9556,7 +10055,11 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_706",
@@ -9578,7 +10081,7 @@
       "races": [
         "MURLOC"
       ],
-      "race": "MURLOC",
+      "race": "멀록",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -9639,7 +10142,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_040",
@@ -9661,7 +10166,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -9717,7 +10222,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_041",
@@ -9797,7 +10304,11 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_601",
@@ -9819,7 +10330,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -9875,7 +10386,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_710",
@@ -9950,7 +10463,11 @@
       "mechanics": [
         "STEALTH",
         "COMBO"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_711",
@@ -10004,7 +10521,11 @@
       ],
       "mechanics": [
         "COMBO"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_042t",
@@ -10012,7 +10533,7 @@
       "name": "무한의 바나나",
       "type": "SPELL",
       "cardClass": "HUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "하수인에게 +1/+1을 부여합니다. <i>(이 카드는 내 손에 남습니다.)</i>",
@@ -10039,7 +10560,12 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_042",
@@ -10061,7 +10587,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -10125,7 +10651,9 @@
       ],
       "relatedDbfIds": [
         120794
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_712",
@@ -10190,7 +10718,10 @@
       ],
       "mechanics": [
         "COMBO"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_713",
@@ -10213,7 +10744,7 @@
         "DRAGON",
         "PIRATE"
       ],
-      "race": "DRAGON",
+      "race": "용족, 해적",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -10282,7 +10813,9 @@
       ],
       "relatedDbfIds": [
         120806
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_713t",
@@ -10290,7 +10823,7 @@
       "name": "영원의 상자",
       "type": "MINION",
       "cardClass": "ROGUE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "<b>죽음의 메아리:</b> 상대편의 손을 동전으로 가득 채웁니다.",
@@ -10335,7 +10868,12 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_714",
@@ -10357,7 +10895,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -10418,7 +10956,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_043",
@@ -10440,7 +10980,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -10491,7 +11031,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_044",
@@ -10551,7 +11093,11 @@
       "relatedDbfIds": [
         120822,
         120823
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_044t1",
@@ -10609,7 +11155,12 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_044t2",
@@ -10668,7 +11219,12 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "DEATHRATTLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_715",
@@ -10714,7 +11270,11 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_716",
@@ -10760,7 +11320,11 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_720",
@@ -10782,7 +11346,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -10859,7 +11423,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_045",
@@ -10881,7 +11447,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -10948,7 +11514,9 @@
       "mechanics": [
         "POISONOUS",
         "REBORN"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_046",
@@ -10971,7 +11539,7 @@
         "MECHANICAL",
         "BEAST"
       ],
-      "race": "MECHANICAL",
+      "race": "기계, 야수",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -11038,7 +11606,9 @@
       "mechanics": [
         "TAUNT",
         "DORMANT"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_047",
@@ -11060,7 +11630,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -11121,7 +11691,9 @@
       ],
       "mechanics": [
         "STEALTH"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_048",
@@ -11143,7 +11715,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -11199,7 +11771,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_441",
@@ -11256,7 +11830,10 @@
           "name": "되돌리기",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_049",
@@ -11335,7 +11912,11 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_434t",
@@ -11343,7 +11924,7 @@
       "name": "시간의 그림자",
       "type": "MINION",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "",
@@ -11380,7 +11961,12 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_050",
@@ -11402,7 +11988,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -11464,7 +12050,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "RUSH"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_051",
@@ -11486,7 +12074,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -11558,7 +12146,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_052",
@@ -11580,7 +12170,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -11647,7 +12237,9 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_053",
@@ -11670,7 +12262,7 @@
         "ELEMENTAL",
         "BEAST"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령, 야수",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -11723,7 +12315,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_054",
@@ -11745,7 +12339,7 @@
       "races": [
         "PIRATE"
       ],
-      "race": "PIRATE",
+      "race": "해적",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -11796,7 +12390,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_055",
@@ -11865,7 +12461,11 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_056",
@@ -11887,7 +12487,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -11949,7 +12549,9 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "LIFESTEAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_057",
@@ -11971,7 +12573,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "DRAENEI",
+      "race": "드레나이",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -12022,7 +12624,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_058",
@@ -12044,7 +12648,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -12106,7 +12710,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "DORMANT"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_059",
@@ -12180,7 +12786,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_750",
@@ -12231,7 +12841,11 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_060",
@@ -12253,7 +12867,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -12296,7 +12910,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_061",
@@ -12318,7 +12934,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -12369,7 +12985,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_062",
@@ -12455,7 +13073,11 @@
         "TAUNT",
         "DIVINE_SHIELD",
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_063",
@@ -12477,7 +13099,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -12554,7 +13176,9 @@
       "mechanics": [
         "RUSH",
         "DORMANT"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_038t1",
@@ -12575,7 +13199,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -12641,7 +13265,10 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_038t2",
@@ -12662,7 +13289,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -12728,7 +13355,10 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_038t3",
@@ -12749,7 +13379,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -12805,7 +13435,10 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_064",
@@ -12890,7 +13523,11 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_442",
@@ -12966,7 +13603,11 @@
         "DEATHRATTLE",
         "BATTLECRY",
         "DORMANT"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_443",
@@ -13016,7 +13657,11 @@
       "relatedDbfIds": [
         122715,
         121021
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_444",
@@ -13090,7 +13735,11 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_446",
@@ -13164,7 +13813,11 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_618",
@@ -13186,7 +13839,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -13261,7 +13914,9 @@
       ],
       "relatedDbfIds": [
         123094
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_447",
@@ -13321,7 +13976,10 @@
       ],
       "mechanics": [
         "DIVINE_SHIELD"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_612",
@@ -13396,7 +14054,10 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_615",
@@ -13452,7 +14113,11 @@
           "name": "부정 룬",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_614",
@@ -13474,7 +14139,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -13525,7 +14190,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_617",
@@ -13547,7 +14214,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -13613,7 +14280,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_218",
@@ -13660,7 +14329,10 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "TIME_443t",
@@ -13668,7 +14340,7 @@
       "name": "살게라스의 지옥사냥개",
       "type": "MINION",
       "cardClass": "DEMONHUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "",
@@ -13681,7 +14353,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -13714,7 +14386,10 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_448",
@@ -13778,7 +14453,11 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_449",
@@ -13824,7 +14503,11 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_100",
@@ -13914,7 +14597,11 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "DIVINE_SHIELD"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "END_002",
@@ -13940,7 +14627,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -14006,7 +14693,8 @@
       "relatedDbfIds": [
         485,
         46054
-      ]
+      ],
+      "spellSchool": ""
     },
     {
       "id": "END_004",
@@ -14033,7 +14721,7 @@
         "UNDEAD",
         "DEMON"
       ],
-      "race": "UNDEAD",
+      "race": "언데드, 악마",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -14099,7 +14787,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": ""
     },
     {
       "id": "END_005",
@@ -14178,7 +14867,9 @@
       ],
       "mechanics": [
         "OUTCAST"
-      ]
+      ],
+      "race": "",
+      "races": []
     },
     {
       "id": "END_006",
@@ -14200,7 +14891,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -14266,7 +14957,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "END_007",
@@ -14321,7 +15014,10 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": ""
     },
     {
       "id": "END_008",
@@ -14347,7 +15043,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -14413,7 +15109,8 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": ""
     },
     {
       "id": "END_009",
@@ -14473,7 +15170,10 @@
       ],
       "relatedDbfIds": [
         121108
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "END_009t",
@@ -14481,7 +15181,7 @@
       "name": "나무정령",
       "type": "MINION",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -14528,7 +15228,12 @@
           "name": "게임 태그 2831",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_770",
@@ -14574,7 +15279,11 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "END_010",
@@ -14600,7 +15309,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -14660,7 +15369,8 @@
       "relatedDbfIds": [
         121145,
         121147
-      ]
+      ],
+      "spellSchool": ""
     },
     {
       "id": "END_010a",
@@ -14668,7 +15378,7 @@
       "name": "유한한 의지",
       "type": "SPELL",
       "cardClass": "INVALID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 6,
       "text": "다른 모든 하수인의 공격력을 1로 바꿉니다.",
@@ -14699,7 +15409,11 @@
           "name": "복수 직업",
           "value": 18
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "flavor": ""
     },
     {
       "id": "END_010b",
@@ -14707,7 +15421,7 @@
       "name": "유한한 결의",
       "type": "SPELL",
       "cardClass": "INVALID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 6,
       "text": "다른 모든 하수인의 생명력을 1로 바꿉니다.",
@@ -14738,7 +15452,11 @@
           "name": "복수 직업",
           "value": 18
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "flavor": ""
     },
     {
       "id": "END_011",
@@ -14824,7 +15542,9 @@
           "name": "성기사 오라",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": []
     },
     {
       "id": "END_012",
@@ -14893,7 +15613,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "END_013",
@@ -14919,7 +15643,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -15001,7 +15725,8 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "spellSchool": ""
     },
     {
       "id": "END_014",
@@ -15056,7 +15781,10 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": ""
     },
     {
       "id": "END_015",
@@ -15078,7 +15806,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -15144,7 +15872,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "END_016",
@@ -15217,7 +15947,10 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": ""
     },
     {
       "id": "END_017",
@@ -15323,7 +16056,10 @@
       ],
       "relatedDbfIds": [
         121160
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": ""
     },
     {
       "id": "END_017t",
@@ -15331,7 +16067,7 @@
       "name": "재깍 재깍",
       "type": "MINION",
       "cardClass": "INVALID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 5,
       "text": "<b>전투의 함성:</b> 내 손이 가득 찰 때까지 카드를 뽑습니다. <b>죽음의 메아리:</b> 상대편의 손을 비웁니다.",
@@ -15348,7 +16084,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -15410,7 +16146,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "flavor": ""
     },
     {
       "id": "END_018",
@@ -15432,7 +16170,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -15494,7 +16232,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "END_019",
@@ -15583,7 +16323,10 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": ""
     },
     {
       "id": "END_020",
@@ -15644,7 +16387,9 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": []
     },
     {
       "id": "END_021",
@@ -15666,7 +16411,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -15727,7 +16472,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "END_022",
@@ -15753,7 +16500,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -15809,7 +16556,8 @@
       ],
       "mechanics": [
         "SPELLPOWER"
-      ]
+      ],
+      "spellSchool": ""
     },
     {
       "id": "END_023",
@@ -15878,7 +16626,9 @@
       ],
       "mechanics": [
         "FREEZE"
-      ]
+      ],
+      "race": "",
+      "races": []
     },
     {
       "id": "END_024",
@@ -15948,7 +16698,10 @@
       ],
       "mechanics": [
         "SECRET"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "END_025",
@@ -16017,7 +16770,9 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ]
+      ],
+      "race": "",
+      "races": []
     },
     {
       "id": "END_026",
@@ -16043,7 +16798,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -16109,7 +16864,8 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": ""
     },
     {
       "id": "END_027",
@@ -16173,7 +16929,11 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "END_028",
@@ -16236,7 +16996,10 @@
       ],
       "mechanics": [
         "OVERLOAD"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": ""
     },
     {
       "id": "END_029",
@@ -16262,7 +17025,7 @@
       "races": [
         "TOTEM"
       ],
-      "race": "TOTEM",
+      "race": "토템",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -16313,7 +17076,8 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": ""
     },
     {
       "id": "END_030",
@@ -16336,7 +17100,7 @@
         "BEAST",
         "DRAGON"
       ],
-      "race": "BEAST",
+      "race": "야수, 용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -16408,7 +17172,9 @@
       "mechanics": [
         "TAUNT",
         "OVERLOAD"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "END_031",
@@ -16434,7 +17200,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -16496,7 +17262,8 @@
       "mechanics": [
         "STEALTH",
         "SPELLPOWER"
-      ]
+      ],
+      "spellSchool": ""
     },
     {
       "id": "END_032",
@@ -16522,7 +17289,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -16602,7 +17369,8 @@
         "COMBO",
         "IMMUNE",
         "RUSH"
-      ]
+      ],
+      "spellSchool": ""
     },
     {
       "id": "END_033",
@@ -16624,7 +17392,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -16677,7 +17445,9 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "END_034",
@@ -16699,7 +17469,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -16755,7 +17525,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "END_035",
@@ -16777,7 +17549,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -16833,7 +17605,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "END_036",
@@ -16939,7 +17713,11 @@
         "TRIGGER_VISUAL",
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "END_037",
@@ -17018,7 +17796,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_620",
@@ -17072,7 +17854,11 @@
       ],
       "mechanics": [
         "SECRET"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "END_000",
@@ -17147,7 +17933,10 @@
       ],
       "relatedDbfIds": [
         121243
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "END_000p",
@@ -17155,7 +17944,7 @@
       "name": "청동용군단의 축복",
       "type": "HERO_POWER",
       "cardClass": "ROGUE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>되돌리기</b> 다른 직업의 무작위 하수인을 얻습니다. 그 하수인의 비용이 (<b>1</b>) 감소합니다.",
@@ -17202,7 +17991,12 @@
           "name": "되돌리기",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "END_003",
@@ -17271,7 +18065,11 @@
       ],
       "relatedDbfIds": [
         121272
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "END_003p",
@@ -17279,7 +18077,7 @@
       "name": "무한용군단의 축복",
       "type": "HERO_POWER",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "<b>지속 능력</b>\n내 턴마다 처음 내는 언데드가 공격력을 +<b>1</b> 얻습니다.",
@@ -17324,7 +18122,12 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "END_001",
@@ -17411,7 +18214,10 @@
       "relatedDbfIds": [
         121243,
         121272
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": ""
     },
     {
       "id": "TIME_730",
@@ -17486,7 +18292,11 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_610t2",
@@ -17494,7 +18304,7 @@
       "name": "변형된 그림자",
       "type": "MINION",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "",
@@ -17507,7 +18317,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -17540,7 +18350,10 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_101",
@@ -17609,7 +18422,11 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_102",
@@ -17673,7 +18490,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_103",
@@ -17752,7 +18573,11 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_436t1",
@@ -17815,7 +18640,12 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_436t2",
@@ -17873,7 +18703,12 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_870t",
@@ -17881,7 +18716,7 @@
       "name": "원형경기장 호랑이",
       "type": "MINION",
       "cardClass": "WARRIOR",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 5,
       "text": "<b>은신</b>",
@@ -17894,7 +18729,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -17940,7 +18775,10 @@
       ],
       "mechanics": [
         "STEALTH"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_704t",
@@ -17948,7 +18786,7 @@
       "name": "명가의 제자",
       "type": "MINION",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "<b>전투의 함성:</b> 다른 카드를 시전합니다.",
@@ -17993,7 +18831,12 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_443t2",
@@ -18001,7 +18844,7 @@
       "name": "살게라스의 지옥사냥개",
       "type": "MINION",
       "cardClass": "DEMONHUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "",
@@ -18014,7 +18857,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -18047,7 +18890,10 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_700t",
@@ -18055,7 +18901,7 @@
       "name": "시간의 비룡",
       "type": "MINION",
       "cardClass": "PALADIN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "<b>도발</b>",
@@ -18068,7 +18914,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "TIME_TRAVEL",
       "nativeTags": [
         {
@@ -18109,7 +18955,10 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_707",
@@ -18163,7 +19012,11 @@
       ],
       "mechanics": [
         "CHOOSE_ONE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "TIME_036t",
@@ -18171,7 +19024,7 @@
       "name": "위협 완화",
       "type": "SPELL",
       "cardClass": "ROGUE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "상대편의 카드 비용을 (2) 증가시킵니다.",
@@ -18198,7 +19051,12 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "TIME_618t",
@@ -18206,7 +19064,7 @@
       "name": "영원의 생명",
       "type": "SPELL",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "<b>죽음의 메아리:</b> <b>시체</b>를 최대 20개 소모하여 그만큼의 생명력을 가지고 부활합니다.",
@@ -18256,7 +19114,12 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     }
   ]
 }
