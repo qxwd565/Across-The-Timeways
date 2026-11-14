@@ -1,0 +1,70 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TIME_102",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2025-11-05",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2025-11-05": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-216_M.tif:5e98e9c7df1f48d09ce4c0ab5ed05e6d",
+        "flavor": "\"내 자명종은 바로 나 자신이다.\"",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> 비용이 8인 무작위 하수인을 내 손으로 가져옵니다. 내 턴이 시작될 때, 그 하수인의 비용이 (1) 감소합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Circadiamancer",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/TIME_102.png"
+      }
+    }
+  }
+}

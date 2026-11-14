@@ -7,64 +7,8 @@
     "type": "SPELL",
     "cardClass": "DEATHKNIGHT",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "EPIC",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 8,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-142_S.tif:40f96a155f8c4d2ebcd8fd2365ecfbbc",
-    "flavor": "절대로 이 얘기를 꺼내서는 안 됩니다.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 8
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 1
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 2196,
-        "name": "혈기 룬",
-        "value": 1
-      },
-      {
-        "id": 2198,
-        "name": "부정 룬",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "[x]내 손을 무작위 언데드로\n가득 채웁니다. 이번 턴에\n그 언데드들이 마나 대신\n생명력을 비용으로 사용합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Forgotten Millennium",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/TIME_615.png"
+    "collectible": true
   }
 }

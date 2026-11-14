@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "END_022",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-01-14",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-01-14": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-318_M.tif:2662dbd4cf29457798059ce3399d18b4",
+        "flavor": "저 정도면 진짜 안경을 껴야겠는데요.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 192,
+            "name": "주문 공격력",
+            "value": 1
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 24
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 476,
+            "name": "복수 직업",
+            "value": 520
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "피해를 받은 상태면 <b>주문_공격력_+2</b>를 얻습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Time-Twisted Seer",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/END_022.png"
+      }
+    }
+  }
+}

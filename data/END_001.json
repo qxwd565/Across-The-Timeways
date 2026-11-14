@@ -10,87 +10,10 @@
       "DEATHKNIGHT",
       "ROGUE"
     ],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 3,
     "attack": 3,
-    "health": 0,
-    "armor": 0,
     "durability": 2,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-305_W.tif:016dbe31dbd44ba4988005ec23383272",
-    "flavor": "시간의 흐름이 항상 순조로운 것은 아닙니다.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 7
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 65
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      },
-      {
-        "id": 3626,
-        "name": "연마",
-        "value": 1
-      },
-      {
-        "id": 3692,
-        "name": "연마 카드 관련",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>전투의 함성</b>: 내 영웅 능력을 <b>연마</b>합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Jagged Edge of Time",
-    "root": true,
-    "relatedIds": [
-      121243,
-      121272
-    ],
-    "art": "art/END_001.png"
+    "collectible": true
   }
 }

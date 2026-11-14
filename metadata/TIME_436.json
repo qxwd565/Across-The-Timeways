@@ -1,0 +1,68 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TIME_436",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2025-11-05",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2025-11-05": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-188_L.tif:4d9f62f970764f5aa0f9b532f48ddb6b",
+        "flavor": "마법이 천 년간 시간의 합일점과 나머지 용의 섬을 아제로스에서 가려 두었습니다. 용군단 자신들까지요.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 7
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 39
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1078,
+            "name": "마우스를 올리면 카드 표시",
+            "value": 122262
+          }
+        ],
+        "nativeRawText": "[x]비용이 (5) 이상인\n무작위 용족을 소환합니다.\n<i>현재로 진행합니다!</i>",
+        "nativeTextBuilder": 0,
+        "englishName": "Past Conflux",
+        "root": true,
+        "relatedIds": [
+          122262,
+          122263
+        ],
+        "art": "art/TIME_436.png"
+      }
+    }
+  }
+}

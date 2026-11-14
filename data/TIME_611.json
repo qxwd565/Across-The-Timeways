@@ -7,69 +7,9 @@
     "type": "SPELL",
     "cardClass": "DEATHKNIGHT",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
     "spellSchool": "FROST",
     "cost": 2,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-136_S.tif:ff4fbcf70a714b1a8b190f99d9352d99",
-    "flavor": "고장 난 시계도 영겁 동안 두 번은 맞는다고 하죠.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 1
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 208,
-        "name": "빙결",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 3
-      },
-      {
-        "id": 2197,
-        "name": "냉기 룬",
-        "value": 2
-      }
-    ],
-    "nativeRawText": "피해를 $3 줍니다. 무작위 적 하수인 둘을 <b>빙결</b> 상태로 만듭니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Timestop",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/TIME_611.png"
+    "collectible": true
   }
 }

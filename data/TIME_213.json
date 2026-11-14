@@ -7,79 +7,10 @@
     "type": "MINION",
     "cardClass": "SHAMAN",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 2,
     "attack": 2,
     "health": 3,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-199_M.tif:a61b44fe54144a11927956db7687d963",
-    "flavor": "이 시간대의 드워프들은 토템을 아주 독특하게 조각했군요.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 4533,
-        "name": "제작 결과 능력",
-        "value": 1
-      },
-      {
-        "id": 4548,
-        "name": "게임 태그 4548",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>전투의 함성</b>: 내 손에 있을 때 자연 주문을 시전했으면& +1/+1을 얻고 카드를 뽑습니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Primordial Overseer",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/TIME_213.png"
+    "collectible": true
   }
 }

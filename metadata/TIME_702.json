@@ -1,0 +1,60 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TIME_702",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2025-11-05",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2025-11-05": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-160_S.tif:c578a6c7e1f1476988859bfabe376c56",
+        "flavor": "밀물에 몸을 맡기세요.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 4
+          }
+        ],
+        "nativeRawText": "[x]피해를 $3 줍니다. 내 손에\n있을 때 하수인을 냈으면,\n방어도를 5 얻습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Ebb and Flow",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/TIME_702.png"
+      }
+    }
+  }
+}

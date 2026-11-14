@@ -1,0 +1,68 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TIME_810",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2025-11-05",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2025-11-05": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-025_L.tif:04e167039d78436a911e9c9191610502",
+        "flavor": "쿠엘탈라스의 수도 실버문은 7천 년에 가까운 세월 동안 침공받지 않았습니다. 리치 왕이 당도하기 전까지는요.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 39
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1078,
+            "name": "마우스를 올리면 카드 표시",
+            "value": 119168
+          }
+        ],
+        "nativeRawText": "[x]무작위 적 하수인에게\n피해를 5 줍니다.\n<i>현재로 진행합니다!</i>",
+        "nativeTextBuilder": 0,
+        "englishName": "Past Silvermoon",
+        "root": true,
+        "relatedIds": [
+          119168,
+          119169
+        ],
+        "art": "art/TIME_810.png"
+      }
+    }
+  }
+}

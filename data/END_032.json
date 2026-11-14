@@ -10,101 +10,14 @@
       "ROGUE",
       "SHAMAN"
     ],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "RARE",
     "race": "용족",
     "races": [
       "DRAGON"
     ],
-    "spellSchool": "",
     "cost": 4,
     "attack": 4,
     "health": 4,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-310_M.tif:98772d3a1ed74792b4b29007cda5c4c8",
-    "flavor": "이 치킨 박스에는 날개가 하나 더 들어 있습니다!",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 189,
-        "name": "질풍",
-        "value": 1
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 24
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 215,
-        "name": "과부하",
-        "value": 1
-      },
-      {
-        "id": 220,
-        "name": "연계",
-        "value": 1
-      },
-      {
-        "id": 240,
-        "name": "면역",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 192
-      },
-      {
-        "id": 791,
-        "name": "속공",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>속공</b>, <b><b>연계:</b> (2)만큼 과부하</b>되어 이번 턴에 <b>면역</b>을 얻고, <b>질풍</b>을 얻습니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Winged Aberration",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/END_032.png"
+    "collectible": true
   }
 }

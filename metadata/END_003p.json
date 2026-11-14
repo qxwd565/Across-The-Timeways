@@ -1,0 +1,60 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "END_003p",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-01-14",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-01-14": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-304_HP.tif:633ed7b714274946a8733a72ae58c2b8",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 1
+          },
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 1
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 10
+          },
+          {
+            "id": 684,
+            "name": "비용 숨김",
+            "value": 1
+          },
+          {
+            "id": 2165,
+            "name": "게임 태그 2165",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>지속 능력</b>\n내 턴마다 처음 내는 언데드가 공격력을 +<b>@</b> 얻습니다.",
+        "nativeTextBuilder": 7,
+        "englishName": "Blessing of the Infinite",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/END_003p.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "END_012",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-01-14",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-01-14": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-330_W.tif:80fa6f2684e44838a5723f2510ebff77",
+        "flavor": "워, 망치로 꽤 세게 맞은 것 같은데. 지금 내 손가락 몇 개야?",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 5
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 7
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]영웅을 공격할 수 없습니다.\n<b>전투의 함성:</b> 이번 턴에\n이 무기의 공격력을\n무한대로 만듭니다!",
+        "nativeTextBuilder": 0,
+        "englishName": "Hand of Infinity",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/END_012.png"
+      }
+    }
+  }
+}

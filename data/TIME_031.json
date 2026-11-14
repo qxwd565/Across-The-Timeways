@@ -7,64 +7,8 @@
     "type": "SPELL",
     "cardClass": "WARLOCK",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 4,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-075_S.tif:6f02bd21f664460ab2f2d833e883d403",
-    "flavor": "라팜에게 사다리는 필요 없다. 라팜에게는 라팜들이 있다!",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 2589,
-        "name": "간판 카드 존재",
-        "value": 1
-      },
-      {
-        "id": 3169,
-        "name": "게임 태그 3169",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "비용이 서로 다른 카드를 3장 뽑습니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "RAFAAM LADDER!!",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/TIME_031.png"
+    "collectible": true
   }
 }

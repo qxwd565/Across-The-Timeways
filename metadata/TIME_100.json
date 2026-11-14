@@ -1,0 +1,95 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TIME_100",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2025-11-05",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2025-11-05": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-121_M.tif:5b60cd27cd18489c8b7d783889dba926",
+        "flavor": "모래시계 몸매를 유지하려고 열심히 노력합니다.",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 194,
+            "name": "천상의 보호막",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 201,
+            "name": "진영",
+            "value": 1
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          },
+          {
+            "id": 4533,
+            "name": "제작 결과 능력",
+            "value": 1
+          },
+          {
+            "id": 4577,
+            "name": "게임 태그 4577",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>천상의 보호막</b>, 내 턴이 끝날 때& 내 손에 있는 모든 하수인에게 +1/+1을 부여합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Hourglass Attendant",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/TIME_100.png"
+      }
+    }
+  }
+}

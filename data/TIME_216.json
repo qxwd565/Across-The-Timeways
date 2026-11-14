@@ -7,59 +7,9 @@
     "type": "SPELL",
     "cardClass": "SHAMAN",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
     "spellSchool": "NATURE",
     "cost": 3,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-200_S.tif:90fc9a3b49e2419da0bf2dc01c3d319c",
-    "flavor": "잘 자라서 제대로 폭발할 때까지 기다려 봅시다.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      }
-    ],
-    "nativeRawText": "하수인에게 피해를 $5 줍니다.\n그 하수인이 생존하면 카드를 2장 뽑습니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Nascent Bolt",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/TIME_216.png"
+    "collectible": true
   }
 }

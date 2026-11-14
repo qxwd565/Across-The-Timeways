@@ -7,79 +7,10 @@
     "type": "MINION",
     "cardClass": "WARLOCK",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 8,
     "attack": 8,
     "health": 8,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-086_M.tif:1910cf579aa2473d8528695b1e014011",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 8
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 8
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 8
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 791,
-        "name": "속공",
-        "value": 1
-      },
-      {
-        "id": 2589,
-        "name": "간판 카드 존재",
-        "value": 1
-      },
-      {
-        "id": 3928,
-        "name": "게임 태그 3928",
-        "value": 1
-      },
-      {
-        "id": 4445,
-        "name": "설화 보너스 카드",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>속공</b>, 이번 게임에서 내가 낸 라팜 하나당 비용이 (1)씩 감소합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Giant Rafaam",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/TIME_005t7.png"
+    "collectible": false
   }
 }

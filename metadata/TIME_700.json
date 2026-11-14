@@ -1,0 +1,92 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TIME_700",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2025-11-05",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2025-11-05": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-176_S.tif:2ba9dbe6d8db482a9bc5b9625fc94a11",
+        "flavor": "사라진 용족의 연결고리를 찾아야 합니다!",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 5
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 535,
+            "name": "퀘스트 완료 조건",
+            "value": 3
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 5
+          },
+          {
+            "id": 1724,
+            "name": "게임 태그 1724",
+            "value": 1
+          },
+          {
+            "id": 2311,
+            "name": "목표",
+            "value": 1
+          },
+          {
+            "id": 3429,
+            "name": "성기사 오라",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "내 턴이 끝날 때 <b>도발</b> 능력이 있는 3/5 용족을 소환합니다. @턴 지속됩니다.",
+        "nativeTextBuilder": 7,
+        "englishName": "Chronological Aura",
+        "root": true,
+        "relatedIds": [
+          122736
+        ],
+        "art": "art/TIME_700.png"
+      }
+    }
+  }
+}

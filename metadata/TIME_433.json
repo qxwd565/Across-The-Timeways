@@ -1,0 +1,70 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TIME_433",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2025-11-05",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2025-11-05": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-187_S.tif:aa22a64d1ec74e28b25e05b9823443e4",
+        "flavor": "NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 201,
+            "name": "진영",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 339,
+            "name": "침묵",
+            "value": 1
+          },
+          {
+            "id": 3934,
+            "name": "되돌리기",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>되돌리기</b>\n무작위 적 하수인을 <b>침묵</b>시키고 처치합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Cease to Exist",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/TIME_433.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TIME_442",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2025-11-05",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2025-11-05": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-152_M.tif:f64184a6ecb7420597a3e0e5564e4bc7",
+        "flavor": "얌전히 굴면 몇 턴 감형받을지도 모릅니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 6
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 217,
+            "name": "죽음의 메아리",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1518,
+            "name": "휴면",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> 적 하수인을 감금합니다. 그 하수인이 10,000턴 동안 <b>휴면</b> 상태가 됩니다. <b>죽음의 메아리:</b> 그 하수인을 깨웁니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Timeway Warden",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/TIME_442.png"
+      }
+    }
+  }
+}

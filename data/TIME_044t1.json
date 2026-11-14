@@ -7,64 +7,9 @@
     "type": "LOCATION",
     "cardClass": "PALADIN",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "EPIC",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 2,
-    "attack": 0,
-    "health": 3,
-    "armor": 0,
     "durability": 3,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-042_L.tif:67325c0d3e6c4db0928535abd838d219",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 39
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 217,
-        "name": "죽음의 메아리",
-        "value": 1
-      },
-      {
-        "id": 1078,
-        "name": "마우스를 올리면 카드 표시",
-        "value": 120823
-      }
-    ],
-    "nativeRawText": "하수인에게 +2/+1과 \"<b>죽음의 메아리:</b> 적 영웅에게 피해를 2 줌\" 능력을 부여합니다. <i>미래로 진행합니다!</i>",
-    "nativeTextBuilder": 0,
-    "englishName": "Present Gnomeregan",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/TIME_044t1.png"
+    "collectible": false
   }
 }

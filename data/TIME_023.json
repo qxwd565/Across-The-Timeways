@@ -7,54 +7,8 @@
     "type": "SPELL",
     "cardClass": "DRUID",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 3,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-159_S.tif:e78cfa5a47b74a678afcd7a8506bd738",
-    "flavor": "최후의 계획으로 직행!",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "내 덱 맨 아래에 있는 카드를 두 장 뽑습니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Contingency",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/TIME_023.png"
+    "collectible": true
   }
 }

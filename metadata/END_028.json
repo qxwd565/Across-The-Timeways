@@ -1,0 +1,65 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "END_028",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-01-14",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-01-14": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-312_S.tif:84de631acaa74b38bb50f3fbe549c56a",
+        "flavor": "\"나는 사제다. 하수인을 처치하는 능력을 지녔지!\" \"나는 주술사다. 숫자 4를 사용하는 능력을 지녔지!\"",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 215,
+            "name": "과부하",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 476,
+            "name": "복수 직업",
+            "value": 160
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]공격력이 4 이하인\n모든 하수인을\n처치합니다. <b>과부하:</b> (2)",
+        "nativeTextBuilder": 0,
+        "englishName": "For All Time",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/END_028.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TIME_027",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2025-11-05",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2025-11-05": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-202_S.tif:33f62c6eb79c4089816149bb19f4e8e9",
+        "flavor": "빠르긴 빠르군요.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 349,
+            "name": "게임 태그 349",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]모든 적에게 $6의 피해를\n무작위로 나누어 입힙니다.\n시간의 편린 2개를\n내 덱에 섞어 넣습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Tachyon Barrage",
+        "root": true,
+        "relatedIds": [
+          120483
+        ],
+        "art": "art/TIME_027.png"
+      }
+    }
+  }
+}

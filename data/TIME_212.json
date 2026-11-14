@@ -7,59 +7,9 @@
     "type": "SPELL",
     "cardClass": "SHAMAN",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
     "spellSchool": "NATURE",
     "cost": 1,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-061_S.tif:382061cc234d48d498a2d4cd346d54c8",
-    "flavor": "로드니는 자기 별명을 증오했지만, 아무도 자신의 능력을 의심하지 않는 데서 위안을 받았습니다.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      }
-    ],
-    "nativeRawText": "아군 하수인에게 피해를 $2 주고 무작위 적 하수인에게 피해를 $4 줍니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Lightning Rod",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/TIME_212.png"
+    "collectible": true
   }
 }

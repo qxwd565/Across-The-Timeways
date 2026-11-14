@@ -7,64 +7,9 @@
     "type": "LOCATION",
     "cardClass": "PRIEST",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 10,
-    "attack": 0,
-    "health": 2,
-    "armor": 0,
     "durability": 2,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-052_L.tif:0fe36704a9444d488ab69f9bfec6dab2",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 10
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 39
-      },
-      {
-        "id": 2589,
-        "name": "간판 카드 존재",
-        "value": 1
-      },
-      {
-        "id": 4445,
-        "name": "설화 보너스 카드",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "내가 아티쉬를 장착했으면 비용이 (0)이 됩니다. 비용이 8인 무작위 하수인을 둘 소환합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Karazhan the Sanctum",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/TIME_890t2.png"
+    "collectible": false
   }
 }

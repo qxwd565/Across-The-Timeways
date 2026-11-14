@@ -7,54 +7,8 @@
     "type": "SPELL",
     "cardClass": "DEMONHUNTER",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 3,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-153_S.tif:aefc9a5a57c049e998861201b2c20aac",
-    "flavor": "우리 아버지는 공격력이 +4 높았고, 우리 아버지의 아버지는 공격력이 +4 높았지.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "이번 턴에 내 영웅이 공격력을 +4 얻습니다.\n내 덱에 하수인이 없으면\n내 손에 있는 모든 하수인에게 공격력을 +4 부여합니다.",
-    "nativeTextBuilder": 28,
-    "englishName": "Lasting Legacy",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/TIME_449.png"
+    "collectible": true
   }
 }

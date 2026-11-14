@@ -7,54 +7,9 @@
     "type": "LOCATION",
     "cardClass": "HUNTER",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "EPIC",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 4,
-    "attack": 0,
-    "health": 3,
-    "armor": 0,
     "durability": 3,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-027_L.tif:05356e5059cf47fd872085ae324eaee3",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 39
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      }
-    ],
-    "nativeRawText": "생명력이 가장 낮은 적 하수인에게 피해를 5 줍니다. 초과한 피해량만큼 적 영웅에게 피해를 줍니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Future Silvermoon",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/TIME_810t2.png"
+    "collectible": false
   }
 }

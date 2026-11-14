@@ -1,0 +1,70 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "END_027",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-01-14",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-01-14": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-314_S.tif:bfcadcc0a1034bcea58a03b95076c343",
+        "flavor": "<b>전투의 함성</b>이 두 개 있는 템퍼루스가 빨리 나오면 좋을 텐데요.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 415,
+            "name": "발견",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          },
+          {
+            "id": 3627,
+            "name": "어둠의 선물",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>어둠의 선물</b> 능력이 있는 과거의 용족을 <b>발견</b>합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Wings of Eternity",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/END_027.png"
+      }
+    }
+  }
+}

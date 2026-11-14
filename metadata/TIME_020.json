@@ -1,0 +1,120 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TIME_020",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2025-11-05",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2025-11-05": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-008_M.tif:8090aba76a3949ae81187ddbb4586d3d",
+        "flavor": "브록시가르가 최후의 결전에서 살게라스에게 입힌 상처는 어떤 오크 영웅도 손에 쥔 적 없던 영광으로 손꼽힙니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 12
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 12
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 197,
+            "name": "돌진",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 676,
+            "name": "무작위 선택 제외",
+            "value": 1
+          },
+          {
+            "id": 968,
+            "name": "게임 시작 효과",
+            "value": 1
+          },
+          {
+            "id": 1673,
+            "name": "게임 태그 1673",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          },
+          {
+            "id": 2936,
+            "name": "게임 태그 2936",
+            "value": 1
+          },
+          {
+            "id": 4085,
+            "name": "설화",
+            "value": 1
+          },
+          {
+            "id": 4759,
+            "name": "게임 태그 4759",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>설화</b>, <b>돌진</b>, <b>개전:</b> 사라집니다. 아르거스에서 온 악마 넷을 모두 처치하면 내 손에 다시 나타납니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Broxigar",
+        "root": true,
+        "relatedIds": [
+          120082,
+          120083,
+          120142,
+          120164,
+          120165,
+          120166,
+          120167,
+          120168,
+          120169
+        ],
+        "art": "art/TIME_020.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TIME_619",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2025-11-05",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2025-11-05": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-001_M.tif:e2556ec44a5645ad893ff8dfdf9017c0",
+        "flavor": "한 어두운 시간대에서, 탈란지는 목숨을 잃은 뒤 죽음의 기사로 다시 살아났습니다. 하지만 죽음조차 그가 잔달라를 보호하는 것을 막지 못했지요.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 1
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 11
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 676,
+            "name": "무작위 선택 제외",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          },
+          {
+            "id": 2936,
+            "name": "게임 태그 2936",
+            "value": 1
+          },
+          {
+            "id": 4085,
+            "name": "설화",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]<b>설화</b>, <b>전투의 함성:</b> 브원삼디를\n뽑습니다. <i>(브원삼디가 죽었다면\n부활시킵니다.)</i> 축복을 선택해\n브원삼디에게 부여합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Talanji of the Graves",
+        "root": true,
+        "relatedIds": [
+          120187,
+          120188,
+          120184,
+          120185,
+          120186
+        ],
+        "art": "art/TIME_619.png"
+      }
+    }
+  }
+}

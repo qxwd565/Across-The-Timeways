@@ -1,0 +1,60 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TIME_602",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2025-11-05",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2025-11-05": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-024_S.tif:76c32f2d044240d6afb9f1b749c61cd7",
+        "flavor": "동물 실험을 거치지 않은 거대 낚시용품점산 웜입니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 3934,
+            "name": "되돌리기",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>되돌리기</b>, 비용이 3인 무작위 야수를 소환합니다. 그 야수가 무작위 적을 공격합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Wormhole",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/TIME_602.png"
+      }
+    }
+  }
+}

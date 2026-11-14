@@ -7,59 +7,9 @@
     "type": "SPELL",
     "cardClass": "WARLOCK",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "EPIC",
-    "race": "",
-    "races": [],
     "spellSchool": "SHADOW",
     "cost": 5,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-074_S.tif:02d042f6af7d492fbc0b30af9ef5220c",
-    "flavor": "제 반쪽이에요.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      }
-    ],
-    "nativeRawText": "내 손에 있는 무작위 하수인을 반반으로 나눕니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Divergence",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/TIME_030.png"
+    "collectible": true
   }
 }

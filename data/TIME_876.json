@@ -7,64 +7,10 @@
     "type": "MINION",
     "cardClass": "ROGUE",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "EPIC",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 1,
     "attack": 1,
     "health": 1,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-197_M.tif:2d00baee3a4d498a9a126ac4d244e715",
-    "flavor": "네모! 동그라미! 마름모!",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 1
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 7
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "이 하수인은 내 손에 있으면 내 턴이 시작될 때마다 상대편의 손에 있는 무작위 하수인으로 변신합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Shapeshifter",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/TIME_876.png"
+    "collectible": true
   }
 }

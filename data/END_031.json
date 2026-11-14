@@ -10,86 +10,14 @@
       "ROGUE",
       "SHAMAN"
     ],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "COMMON",
     "race": "언데드",
     "races": [
       "UNDEAD"
     ],
-    "spellSchool": "",
     "cost": 3,
     "attack": 3,
     "health": 3,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-309_M.tif:06425cf143854582b97488c3db009aab",
-    "flavor": "모든 것의 <i>망령</i>입니다.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 191,
-        "name": "은신",
-        "value": 1
-      },
-      {
-        "id": 192,
-        "name": "주문 공격력",
-        "value": 1
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 11
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 192
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>은신</b>\n<b>주문 공격력 +1</b>",
-    "nativeTextBuilder": 0,
-    "englishName": "Shade of the End Time",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/END_031.png"
+    "collectible": true
   }
 }

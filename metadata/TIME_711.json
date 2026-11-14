@@ -1,0 +1,60 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TIME_711",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2025-11-05",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2025-11-05": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-194_S.tif:9fef3d4a51104538892ce909a2b4ebd1",
+        "flavor": "옛날 생각이 나는군요. 이 카드 직전에 카드를 내던 때로요.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 7
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 220,
+            "name": "연계",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]비용이 1인 과거의\n무작위 하수인을 둘 소환합니다.\n<b>연계:</b> 그 하수인들에게\n공격력을 +1 부여합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Flashback",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/TIME_711.png"
+      }
+    }
+  }
+}

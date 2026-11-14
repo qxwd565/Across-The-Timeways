@@ -1,0 +1,60 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TIME_707",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2025-11-05",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2025-11-05": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": true,
+        "installed": true,
+        "portrait": "HS36-161_S.tif:e59ff4b31adb42dc90d3c5aa8447dd75",
+        "flavor": "네 현실을 부정하고 내 현실을 내세우겠어!",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 443,
+            "name": "선택",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "내 손과 덱을 과거의 무작위 <b>선택</b> 카드로 교체합니다. 그 카드들의 비용이 (1) 감소합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Alternate Reality",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/TIME_707.png"
+      }
+    }
+  }
+}

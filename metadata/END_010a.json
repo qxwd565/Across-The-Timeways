@@ -1,0 +1,45 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "END_010a",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-01-14",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-01-14": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-332_S.tif:6739d87b482143d6a9ca0b2a4c96b341",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 476,
+            "name": "복수 직업",
+            "value": 18
+          }
+        ],
+        "nativeRawText": "다른 모든 하수인의 공격력을 1로 바꿉니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Finite Will",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/END_010a.png"
+      }
+    }
+  }
+}

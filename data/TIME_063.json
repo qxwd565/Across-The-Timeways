@@ -7,101 +7,14 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "LEGENDARY",
     "race": "용족",
     "races": [
       "DRAGON"
     ],
-    "spellSchool": "",
     "cost": 3,
     "attack": 8,
     "health": 8,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-124_M.tif:f2db43a359be4acf877d3aba600bf68f",
-    "flavor": "15초 동안 <b>휴면</b>하려고 해 봤는데, 너무 짧더군요.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 8
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 8
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 24
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 791,
-        "name": "속공",
-        "value": 1
-      },
-      {
-        "id": 1518,
-        "name": "휴면",
-        "value": 1
-      },
-      {
-        "id": 1652,
-        "name": "게임 태그 1652",
-        "value": 1
-      },
-      {
-        "id": 1932,
-        "name": "다이아몬드 카드 존재",
-        "value": 1
-      },
-      {
-        "id": 4410,
-        "name": "노즈도르무 휴면 효과 감시",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "5턴 동안 <b>휴면</b> 상태입니다. <b>속공</b>. 내가 최신 확장팩의 카드를 낸 후에, 1턴 일찍 깨어납니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Timelord Nozdormu",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/TIME_063.png"
+    "collectible": true
   }
 }

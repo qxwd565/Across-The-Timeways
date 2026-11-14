@@ -1,0 +1,50 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TIME_000tb",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2025-11-05",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2025-11-05": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-097_S.tif:1b739e1364734835b1e03382869383a4",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 684,
+            "name": "비용 숨김",
+            "value": 1
+          },
+          {
+            "id": 3934,
+            "name": "되돌리기",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "카드의 효과를 <b>되돌립니다</b>.",
+        "nativeTextBuilder": 23,
+        "englishName": "Rewind Timeline",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/TIME_000tb.png"
+      }
+    }
+  }
+}

@@ -7,64 +7,9 @@
     "type": "LOCATION",
     "cardClass": "PRIEST",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "EPIC",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 7,
-    "attack": 0,
-    "health": 3,
-    "armor": 0,
     "durability": 3,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-190_L.tif:0506405a9d8d4f29b75c7666a0f7964d",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 7
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 39
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 415,
-        "name": "발견",
-        "value": 1
-      },
-      {
-        "id": 1342,
-        "name": "발견 시각 효과",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "비용이 (5) 이상인 용족을 <b>발견</b>하여 소환합니다. 그 용족을 복사하여 얻습니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Future Conflux",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/TIME_436t2.png"
+    "collectible": false
   }
 }

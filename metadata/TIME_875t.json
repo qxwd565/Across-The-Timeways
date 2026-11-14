@@ -1,0 +1,85 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TIME_875t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2025-11-05",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2025-11-05": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-059_M.tif:e80903b900f9490c903390ab6ad71adc",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 7
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 968,
+            "name": "게임 시작 효과",
+            "value": 1
+          },
+          {
+            "id": 1673,
+            "name": "게임 태그 1673",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          },
+          {
+            "id": 4445,
+            "name": "설화 보너스 카드",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]<b>개전:</b> 가로나로부터 숨어\n적의 덱으로 들어갑니다.\n<b>전투의_함성:</b> 카드를 뽑습니다.\n이 카드를 내 덱에 섞어\n넣습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "King Llane",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/TIME_875t.png"
+      }
+    }
+  }
+}

@@ -7,59 +7,8 @@
     "type": "SPELL",
     "cardClass": "ROGUE",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 3,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-054_S.tif:3e3660b04880404394c92ab60ca39179",
-    "flavor": "아야, 아야, 아야. 잠깐만, 또 던지게? 아야, 아야, 아야!",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 7
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 3934,
-        "name": "되돌리기",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>되돌리기</b>\n피해를 $2씩 주는 칼날 3개를 무작위 적들에게 발사합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Chrono Daggers",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/TIME_001.png"
+    "collectible": true
   }
 }

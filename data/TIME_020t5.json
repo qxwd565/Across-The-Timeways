@@ -7,54 +7,9 @@
     "type": "SPELL",
     "cardClass": "DEMONHUNTER",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "",
-    "race": "",
-    "races": [],
     "spellSchool": "FEL",
     "cost": 0,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-133_S.tif:8d139ff39c354275a8ce8a0b7e2ec264",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 7
-      },
-      {
-        "id": 2589,
-        "name": "간판 카드 존재",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "상대편에게 4/1 악마를 소환해줍니다. 그 악마가 죽으면 브록시가르가 내 손에 다시 나타납니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Final Portal to Argus",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/TIME_020t5.png"
+    "collectible": false
   }
 }

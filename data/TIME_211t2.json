@@ -7,59 +7,9 @@
     "type": "LOCATION",
     "cardClass": "DRUID",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 4,
-    "attack": 0,
-    "health": 3,
-    "armor": 0,
     "durability": 3,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-021_L.tif:02bd3bdb46174409b92b5912ab5ff177",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 39
-      },
-      {
-        "id": 4445,
-        "name": "설화 보너스 카드",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "아군 하수인을\n복사하여 소환합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Zin-Azshari",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/TIME_211t2.png"
+    "collectible": false
   }
 }

@@ -7,76 +7,8 @@
     "type": "SPELL",
     "cardClass": "DEATHKNIGHT",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 3,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-303_S.tif:2914c79336164075be527f230e7c9447",
-    "flavor": "모든 메타는 끝내야 한다.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 1
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1724,
-        "name": "게임 태그 1724",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      },
-      {
-        "id": 3626,
-        "name": "연마",
-        "value": 1
-      },
-      {
-        "id": 3692,
-        "name": "연마 카드 관련",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "[x]언데드를 뽑습니다.\n내 영웅 능력을 두 번\n<b>연마</b>합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Finality",
-    "root": true,
-    "relatedIds": [
-      121272
-    ],
-    "art": "art/END_003.png"
+    "collectible": true
   }
 }

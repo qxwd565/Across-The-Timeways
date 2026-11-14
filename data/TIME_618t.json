@@ -7,64 +7,8 @@
     "type": "SPELL",
     "cardClass": "DEATHKNIGHT",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 0,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-144_S.tif:07b2f5e6dd72440abe674cd8d54c17ef",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 1
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 217,
-        "name": "죽음의 메아리",
-        "value": 1
-      },
-      {
-        "id": 684,
-        "name": "비용 숨김",
-        "value": 1
-      },
-      {
-        "id": 2559,
-        "name": "시체",
-        "value": 1
-      },
-      {
-        "id": 4508,
-        "name": "플레이어 효과 표시 카드",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>죽음의 메아리:</b> <b>시체</b>를 최대 20개 소모하여 그만큼의 생명력을 가지고 부활합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Eternal Life",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/TIME_618t.png"
+    "collectible": false
   }
 }

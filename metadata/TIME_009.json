@@ -1,0 +1,103 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TIME_009",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2025-11-05",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2025-11-05": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-046_M.tif:5f5833c1f40a42a480b3b521d1c0342e",
+        "flavor": "겔빈은 한 미래에서 자기 뇌를 로봇 갑옷에 이식하여 성스러운 빛의 힘으로 노움들을 밝은 미래로 인도합니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 6
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 6
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 8
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 5
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 17
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 676,
+            "name": "무작위 선택 제외",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          },
+          {
+            "id": 2936,
+            "name": "게임 태그 2936",
+            "value": 1
+          },
+          {
+            "id": 4085,
+            "name": "설화",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>설화</b>, <b>전투의 함성:</b>\n내 덱에 있는 모든\n종류의 오라를 하나씩 시전합니다.",
+        "nativeTextBuilder": 7,
+        "englishName": "Gelbin of Tomorrow",
+        "root": true,
+        "relatedIds": [
+          119919,
+          119920
+        ],
+        "art": "art/TIME_009.png"
+      }
+    }
+  }
+}

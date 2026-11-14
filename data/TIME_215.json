@@ -7,66 +7,9 @@
     "type": "SPELL",
     "cardClass": "SHAMAN",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
     "spellSchool": "NATURE",
     "cost": 2,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-063_S.tif:fca82020342948ee8569ab4ef7446d36",
-    "flavor": "내 근육 보여줄까? 명대사도 들려주지! \"망치 나가신다!\"",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1078,
-        "name": "마우스를 올리면 카드 표시",
-        "value": 121020
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      }
-    ],
-    "nativeRawText": "모든 하수인에게 피해를 $1 줍니다. 전하 충격을 얻습니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Thunderquake",
-    "root": true,
-    "relatedIds": [
-      121020
-    ],
-    "art": "art/TIME_215.png"
+    "collectible": true
   }
 }

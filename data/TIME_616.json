@@ -7,59 +7,9 @@
     "type": "SPELL",
     "cardClass": "DEATHKNIGHT",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
     "spellSchool": "SHADOW",
     "cost": 4,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-139_S.tif:2e0b74698c354e0eb3b2fa6bac5b8c1b",
-    "flavor": "\"나 좀 죽게 내버려둬!\"",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 1
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      }
-    ],
-    "nativeRawText": "[x]이번 게임에서 죽은\n비용이 가장 높은\n아군 언데드를 소환합니다.",
-    "nativeTextBuilder": 7,
-    "englishName": "Memoriam Manifest",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/TIME_616.png"
+    "collectible": true
   }
 }

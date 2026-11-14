@@ -1,0 +1,108 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TIME_209",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2025-11-05",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2025-11-05": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-067_M.tif:4665649b38744f7d8fc088cf2cc11c25",
+        "flavor": "국왕 무라딘이 타락한 왕자 아서스를 처치한 일화는 아이언포지 역사상 가장 비극적인 이야기로 손꼽힙니다. 리치 왕은 결코 권좌에 앉지 못했고 폭풍기수들은 단결했지만, 왕자의 죽음은 얼라이언스에 봉합하지 못할 균열을 남겼습니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 8
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 217,
+            "name": "죽음의 메아리",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 676,
+            "name": "무작위 선택 제외",
+            "value": 1
+          },
+          {
+            "id": 791,
+            "name": "속공",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          },
+          {
+            "id": 2936,
+            "name": "게임 태그 2936",
+            "value": 1
+          },
+          {
+            "id": 4085,
+            "name": "설화",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>설화</b>, <b>속공</b>, <b>전투의 함성:</b> 국왕의 망치를 내게 가져오라!\n<b>죽음의_메아리:</b> 국왕의 망치를 내 손으로 가져옵니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Muradin, High King",
+        "root": true,
+        "relatedIds": [
+          119647,
+          119653
+        ],
+        "art": "art/TIME_209.png"
+      }
+    }
+  }
+}

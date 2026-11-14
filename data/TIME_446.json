@@ -7,79 +7,9 @@
     "type": "LOCATION",
     "cardClass": "DEMONHUNTER",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "LEGENDARY",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 6,
-    "attack": 0,
-    "health": 3,
-    "armor": 0,
     "durability": 3,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-154_L.tif:23762c950a0c4b2598293695b5f92c45",
-    "flavor": "\"...상담사가 곧 응대해 드릴 예정이오니 전화를 끊지 말고 기다려 주십시오...\"",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 39
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 415,
-        "name": "발견",
-        "value": 1
-      },
-      {
-        "id": 1342,
-        "name": "발견 시각 효과",
-        "value": 1
-      },
-      {
-        "id": 2589,
-        "name": "간판 카드 존재",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "비용이 (5) 이상인 무작위 악마를 <b>발견</b>합니다. 내 덱에 하수인이 없으면, 다음 하수인의 비용이 (1)이 됩니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "The Eternal Hold",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/TIME_446.png"
+    "collectible": true
   }
 }

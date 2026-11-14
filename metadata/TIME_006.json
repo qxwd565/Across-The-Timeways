@@ -1,0 +1,62 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TIME_006",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2025-11-05",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2025-11-05": {
+        "nativeSetId": 1957,
+        "set": "TIME_TRAVEL",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS36-170_S.tif:6bed2441bad64f54812aaffae8019ff3",
+        "flavor": "4/0 하수인도 둘 소환합니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>도발</b> 능력이 있는 0/4 하수인을 소환합니다. 내 손에 용족이 있으면, 하나 더 소환합니다.",
+        "nativeTextBuilder": 39,
+        "englishName": "Mirror Dimension",
+        "root": true,
+        "relatedIds": [
+          119916
+        ],
+        "art": "art/TIME_006.png"
+      }
+    }
+  }
+}

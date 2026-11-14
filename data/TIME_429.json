@@ -7,81 +7,14 @@
     "type": "MINION",
     "cardClass": "PRIEST",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "EPIC",
     "race": "드레나이",
     "races": [
       "DRAENEI"
     ],
-    "spellSchool": "",
     "cost": 4,
     "attack": 4,
     "health": 5,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-191_M.tif:5769fbea730d4da8bcfc69eafd9d5866",
-    "flavor": "진정한 신성을 이루려면 신앙의 중심을 파헤쳐야 합니다.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 2589,
-        "name": "간판 카드 존재",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>전투의 함성:</b> 내 손에 있는 모든 하수인의 공격력과 생명력을 두 능력치 중에 더 높은 수치로 만듭니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Divine Augur",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/TIME_429.png"
+    "collectible": true
   }
 }

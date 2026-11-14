@@ -7,96 +7,10 @@
     "type": "MINION",
     "cardClass": "DRUID",
     "classes": [],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "LEGENDARY",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 5,
     "attack": 5,
     "health": 5,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": true,
-    "installed": true,
-    "portrait": "HS36-016_M.tif:7ad26ea4577e49f0821142009b654eaf",
-    "flavor": "아즈샤라는 한때 칼도레이의 자애로운 여왕이었습니다. 그 모습을 쭉 유지한 시간대도 있지요.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 5
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 443,
-        "name": "선택",
-        "value": 1
-      },
-      {
-        "id": 676,
-        "name": "무작위 선택 제외",
-        "value": 1
-      },
-      {
-        "id": 2936,
-        "name": "게임 태그 2936",
-        "value": 1
-      },
-      {
-        "id": 4085,
-        "name": "설화",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "[x]<b>설화</b>, <b>선택 -</b>\n진아즈샤리를 강화합니다.\n또는 영원의 샘을 강화합니다.\n<i>(다른 쪽은 파괴됩니다!)</i>",
-    "nativeTextBuilder": 7,
-    "englishName": "Lady Azshara",
-    "root": true,
-    "relatedIds": [
-      119930,
-      119929,
-      120204,
-      120202,
-      120205,
-      120200
-    ],
-    "art": "art/TIME_211.png"
+    "collectible": true
   }
 }

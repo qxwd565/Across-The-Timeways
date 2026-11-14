@@ -10,44 +10,8 @@
       "DRUID",
       "PALADIN"
     ],
-    "nativeSetId": 1957,
-    "set": "TIME_TRAVEL",
     "rarity": "",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 6,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS36-332_S.tif:6739d87b482143d6a9ca0b2a4c96b341",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 18
-      }
-    ],
-    "nativeRawText": "다른 모든 하수인의 공격력을 1로 바꿉니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Finite Will",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/END_010a.png"
+    "collectible": false
   }
 }
