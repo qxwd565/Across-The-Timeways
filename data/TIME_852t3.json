@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Azure Oathstone",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_852t3",
     "dbfId": 119525,
     "name": "하늘빛 서약의 돌",
-    "text": "이번 게임에서 죽은\n내 용족 하수인들을\n소환합니다.",
+    "text": "이번 게임에서 죽은<br></br>내 용족 하수인들을<br></br>소환합니다.",
     "type": "SPELL",
     "cardClass": "MAGE",
     "classes": [],
@@ -60,27 +57,9 @@
     ],
     "nativeRawText": "[x]이번 게임에서 죽은\n내 용족 하수인들을\n소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Azure Oathstone",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/TIME_852t3.png"
   }
 }

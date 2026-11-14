@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Stormrook",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_217",
     "dbfId": 120177,
     "name": "폭풍떼까마귀",
@@ -88,27 +85,9 @@
     ],
     "nativeRawText": "내가 이 하수인에게 자연 주문으로 피해를 줄 때마다 대신 비용이 5인 무작위 하수인을 소환합니다.",
     "nativeTextBuilder": 7,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Stormrook",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/TIME_217.png"
   }
 }

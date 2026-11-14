@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Bygone Echoes",
-  "card": {
+  "2026-01-14": {
     "id": "END_005",
     "dbfId": 121060,
     "name": "지난날의 메아리",
-    "text": "비용이 4인 무작위\n하수인을 소환합니다. <b>시체</b>를\n4개 소모해서 하나 더 소환합니다.\n<b>추방자:</b> 하나 더 소환합니다.",
+    "text": "비용이 4인 무작위<br></br>하수인을 소환합니다. <b>시체</b>를<br></br>4개 소모해서 하나 더 소환합니다.<br></br><b>추방자:</b> 하나 더 소환합니다.",
     "type": "SPELL",
     "cardClass": "INVALID",
     "classes": [
@@ -83,27 +80,9 @@
     ],
     "nativeRawText": "[x]비용이 4인 무작위\n하수인을 소환합니다. <b>시체</b>를\n4개 소모해서 하나 더 소환합니다.\n<b>추방자:</b> 하나 더 소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2026-01-14",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Bygone Echoes",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/END_005.png"
   }
 }

@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Heir of Hereafter",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_871",
     "dbfId": 119780,
     "name": "내세의 후예",
@@ -92,27 +89,9 @@
     ],
     "nativeRawText": "<b>도발</b>, <b>전투의 함성</b>:& 피해를 받은 하수인 하나당 +2/+2를 얻습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Heir of Hereafter",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/TIME_871.png"
   }
 }

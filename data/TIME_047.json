@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Devious Coyote",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_047",
     "dbfId": 120859,
     "name": "사악한 코요테",
-    "text": "<b>은신</b>, 이번 턴에\n적 영웅이 피해를 받을 때마다 비용이 (1) 감소합니다.",
+    "text": "<b>은신</b>, 이번 턴에<br></br>적 영웅이 피해를 받을 때마다 비용이 (1) 감소합니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -87,27 +84,9 @@
     ],
     "nativeRawText": "<b>은신</b>, 이번 턴에\n적 영웅이 피해를 받을 때마다 비용이 (1) 감소합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Devious Coyote",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/TIME_047.png"
   }
 }

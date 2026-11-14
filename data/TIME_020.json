@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Broxigar",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_020",
     "dbfId": 120074,
     "name": "브록시가르",
@@ -110,37 +107,19 @@
     ],
     "nativeRawText": "<b>설화</b>, <b>돌진</b>, <b>개전:</b> 사라집니다. 아르거스에서 온 악마 넷을 모두 처치하면 내 손에 다시 나타납니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    120082,
-    120083,
-    120142,
-    120164,
-    120165,
-    120166,
-    120167,
-    120168,
-    120169
-  ],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Broxigar",
+    "root": true,
+    "relatedIds": [
+      120082,
+      120083,
+      120142,
+      120164,
+      120165,
+      120166,
+      120167,
+      120168,
+      120169
+    ],
+    "art": "art/TIME_020.png"
   }
 }

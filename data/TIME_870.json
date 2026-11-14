@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Gladiatorial Combat",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_870",
     "dbfId": 119778,
     "name": "검투사의 영광",
@@ -65,29 +62,11 @@
     ],
     "nativeRawText": "내 덱에서 무작위 하수인을 소환합니다. 상대편에게 <b>은신</b> 능력이 있는 5/5 호랑이를 소환해줍니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    122348
-  ],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Gladiatorial Combat",
+    "root": true,
+    "relatedIds": [
+      122348
+    ],
+    "art": "art/TIME_870.png"
   }
 }

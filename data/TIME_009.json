@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Gelbin of Tomorrow",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_009",
     "dbfId": 119918,
     "name": "내일의 겔빈",
-    "text": "<b>설화</b>, <b>전투의 함성:</b>\n내 덱에 있는 모든\n종류의 오라를 하나씩 시전합니다.",
+    "text": "<b>설화</b>, <b>전투의 함성:</b><br></br>내 덱에 있는 모든<br></br>종류의 오라를 하나씩 시전합니다.",
     "type": "MINION",
     "cardClass": "PALADIN",
     "classes": [],
@@ -102,30 +99,12 @@
     ],
     "nativeRawText": "<b>설화</b>, <b>전투의 함성:</b>\n내 덱에 있는 모든\n종류의 오라를 하나씩 시전합니다.",
     "nativeTextBuilder": 7,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    119919,
-    119920
-  ],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Gelbin of Tomorrow",
+    "root": true,
+    "relatedIds": [
+      119919,
+      119920
+    ],
+    "art": "art/TIME_009.png"
   }
 }

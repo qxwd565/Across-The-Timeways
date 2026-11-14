@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Husk, Eternal Reaper",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_618",
     "dbfId": 121000,
     "name": "영원한 사신 허스크",
-    "text": "<b>전투의 함성:</b> 내 영웅에게\n\"<b>죽음의 메아리:</b> <b>시체</b>를 최대 20개\n소모하여 그만큼의 생명력을 가지고\n부활함\" 능력을 부여합니다.",
+    "text": "<b>전투의 함성:</b> 내 영웅에게<br></br>\"<b>죽음의 메아리:</b> <b>시체</b>를 최대 20개<br></br>소모하여 그만큼의 생명력을 가지고<br></br>부활함\" 능력을 부여합니다.",
     "type": "MINION",
     "cardClass": "DEATHKNIGHT",
     "classes": [],
@@ -97,29 +94,11 @@
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 내 영웅에게\n\"<b>죽음의_메아리:</b> <b>시체</b>를 최대 20개\n소모하여 그만큼의 생명력을 가지고\n부활함\" 능력을 부여합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    123094
-  ],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Husk, Eternal Reaper",
+    "root": true,
+    "relatedIds": [
+      123094
+    ],
+    "art": "art/TIME_618.png"
   }
 }

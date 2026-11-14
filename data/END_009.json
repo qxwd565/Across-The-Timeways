@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Splintered Reality",
-  "card": {
+  "2026-01-14": {
     "id": "END_009",
     "dbfId": 121107,
     "name": "파편화된 현실",
-    "text": "2/2 나무정령을 둘 소환합니다. 이번 게임에서 죽은 아군 나무정령 하나당\n그 나무정령들이 +1/+1을 얻습니다.",
+    "text": "2/2 나무정령을 둘 소환합니다. 이번 게임에서 죽은 아군 나무정령 하나당<br></br>그 나무정령들이 +1/+1을 얻습니다.",
     "type": "SPELL",
     "cardClass": "DRUID",
     "classes": [],
@@ -65,29 +62,11 @@
     ],
     "nativeRawText": "2/2 나무정령을 둘 소환합니다. 이번 게임에서 죽은 아군 나무정령 하나당\n그 나무정령들이 +1/+1을 얻습니다.@ <i>(@)</i>",
     "nativeTextBuilder": 7,
-    "releasedAt": "2026-01-14",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    121108
-  ],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Splintered Reality",
+    "root": true,
+    "relatedIds": [
+      121108
+    ],
+    "art": "art/END_009.png"
   }
 }

@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Temporal Traveler",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_434",
     "dbfId": 120527,
     "name": "시간 여행자",
-    "text": "<b>죽음의 메아리:</b> 무작위\n적 하수인을 공격하는 4/1 그림자를 소환합니다.",
+    "text": "<b>죽음의 메아리:</b> 무작위<br></br>적 하수인을 공격하는 4/1 그림자를 소환합니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -70,29 +67,11 @@
     ],
     "nativeRawText": "<b>죽음의 메아리:</b> 무작위\n적 하수인을 공격하는 4/1 그림자를 소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    120946
-  ],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Temporal Traveler",
+    "root": true,
+    "relatedIds": [
+      120946
+    ],
+    "art": "art/TIME_434.png"
   }
 }

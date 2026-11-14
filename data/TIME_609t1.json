@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Ranger Captain Alleria",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_609t1",
     "dbfId": 119705,
     "name": "순찰대장 알레리아",
@@ -80,27 +77,9 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 주문을 <b>발견</b>합니다. 내가 실바나스 또는 베리사를 냈으면 그 수만큼 반복합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Ranger Captain Alleria",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/TIME_609t1.png"
   }
 }

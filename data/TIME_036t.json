@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Mitigate Threat",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_036t",
     "dbfId": 122962,
     "name": "위협 완화",
@@ -45,27 +42,9 @@
     ],
     "nativeRawText": "상대편의 카드 비용을 (2) 증가시킵니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Mitigate Threat",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/TIME_036t.png"
   }
 }

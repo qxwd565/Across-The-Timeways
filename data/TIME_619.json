@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Talanji of the Graves",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_619",
     "dbfId": 120183,
     "name": "무덤의 탈란지",
-    "text": "<b>설화</b>, <b>전투의 함성:</b> 브원삼디를\n뽑습니다. <i>(브원삼디가 죽었다면\n부활시킵니다.)</i> 축복을 선택해\n브원삼디에게 부여합니다.",
+    "text": "<b>설화</b>, <b>전투의 함성:</b> 브원삼디를<br></br>뽑습니다. <i>(브원삼디가 죽었다면<br></br>부활시킵니다.)</i> 축복을 선택해<br></br>브원삼디에게 부여합니다.",
     "type": "MINION",
     "cardClass": "DEATHKNIGHT",
     "classes": [],
@@ -102,33 +99,15 @@
     ],
     "nativeRawText": "[x]<b>설화</b>, <b>전투의 함성:</b> 브원삼디를\n뽑습니다. <i>(브원삼디가 죽었다면\n부활시킵니다.)</i> 축복을 선택해\n브원삼디에게 부여합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    120187,
-    120188,
-    120184,
-    120185,
-    120186
-  ],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Talanji of the Graves",
+    "root": true,
+    "relatedIds": [
+      120187,
+      120188,
+      120184,
+      120185,
+      120186
+    ],
+    "art": "art/TIME_619.png"
   }
 }

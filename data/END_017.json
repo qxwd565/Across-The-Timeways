@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Battle at the End Time",
-  "card": {
+  "2026-01-14": {
     "id": "END_017",
     "dbfId": 121159,
     "name": "시간의 끝 전투",
-    "text": "<b>퀘스트:</b> 내 손을 가득 채운 후, 손을 비워야 합니다.\n<b>보상: </b>재깍 재깍",
+    "text": "<b>퀘스트:</b> 내 손을 가득 채운 후, 손을 비워야 합니다.<br></br><b>보상: </b>재깍 재깍",
     "type": "SPELL",
     "cardClass": "INVALID",
     "classes": [
@@ -108,29 +105,11 @@
     ],
     "nativeRawText": "<b>퀘스트:</b> 내 손을 가득 채운 후, 손을 비워야 합니다.\n<b>보상: </b>재깍 재깍",
     "nativeTextBuilder": 0,
-    "releasedAt": "2026-01-14",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    121160
-  ],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Battle at the End Time",
+    "root": true,
+    "relatedIds": [
+      121160
+    ],
+    "art": "art/END_017.png"
   }
 }

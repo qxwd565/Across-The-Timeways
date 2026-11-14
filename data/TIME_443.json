@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Hounds of Fury",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_443",
     "dbfId": 120990,
     "name": "격노의 사냥개",
-    "text": "3/2 악마를 둘 소환합니다.\n내 덱에 하수인이 없으면\n그 악마들이 생명력이 가장\n낮은 적을 공격합니다.",
+    "text": "3/2 악마를 둘 소환합니다.<br></br>내 덱에 하수인이 없으면<br></br>그 악마들이 생명력이 가장<br></br>낮은 적을 공격합니다.",
     "type": "SPELL",
     "cardClass": "DEMONHUNTER",
     "classes": [],
@@ -55,30 +52,12 @@
     ],
     "nativeRawText": "[x]3/2 악마를 둘 소환합니다.\n내 덱에 하수인이 없으면\n그 악마들이 생명력이 가장\n낮은 적을 공격합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    122715,
-    121021
-  ],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Hounds of Fury",
+    "root": true,
+    "relatedIds": [
+      122715,
+      121021
+    ],
+    "art": "art/TIME_443.png"
   }
 }

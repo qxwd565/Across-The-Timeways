@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Entropic Continuity",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_026",
     "dbfId": 120484,
     "name": "엔트로피 연속성",
@@ -55,29 +52,11 @@
     ],
     "nativeRawText": "내 하수인들에게 +1/+1을 부여합니다. 시간의 편린 2개를 내 덱에 섞어 넣습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    120483
-  ],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Entropic Continuity",
+    "root": true,
+    "relatedIds": [
+      120483
+    ],
+    "art": "art/TIME_026.png"
   }
 }

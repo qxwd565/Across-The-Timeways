@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "High King's Hammer",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_209t",
     "dbfId": 119647,
     "name": "국왕의 망치",
-    "text": "<b>질풍</b>, <b>죽음의 메아리:</b>\n이 무기에 영구히 공격력을\n+2 부여하고 내 덱에\n섞어 넣습니다.",
+    "text": "<b>질풍</b>, <b>죽음의 메아리:</b><br></br>이 무기에 영구히 공격력을<br></br>+2 부여하고 내 덱에<br></br>섞어 넣습니다.",
     "type": "WEAPON",
     "cardClass": "SHAMAN",
     "classes": [],
@@ -85,27 +82,9 @@
     ],
     "nativeRawText": "[x]<b>질풍</b>, <b>죽음의 메아리:</b>\n이 무기에 영구히 공격력을\n+2 부여하고 내 덱에\n섞어 넣습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "High King's Hammer",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/TIME_209t.png"
   }
 }

@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Alter Time",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_857",
     "dbfId": 119633,
     "name": "시간 변형",
-    "text": "과거의 비전 주문 둘을\n<b>발견</b>합니다. 그 주문들의\n비용이 (2) 감소합니다.",
+    "text": "과거의 비전 주문 둘을<br></br><b>발견</b>합니다. 그 주문들의<br></br>비용이 (2) 감소합니다.",
     "type": "SPELL",
     "cardClass": "MAGE",
     "classes": [],
@@ -65,27 +62,9 @@
     ],
     "nativeRawText": "[x]과거의 비전 주문 둘을\n<b>발견</b>합니다. 그 주문들의\n비용이 (2) 감소합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Alter Time",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/TIME_857.png"
   }
 }

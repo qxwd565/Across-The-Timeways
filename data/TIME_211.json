@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Lady Azshara",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_211",
     "dbfId": 119928,
     "name": "여군주 아즈샤라",
-    "text": "<b>설화</b>, <b>선택 -</b>\n진아즈샤리를 강화합니다.\n또는 영원의 샘을 강화합니다.\n<i>(다른 쪽은 파괴됩니다!)</i>",
+    "text": "<b>설화</b>, <b>선택 -</b><br></br>진아즈샤리를 강화합니다.<br></br>또는 영원의 샘을 강화합니다.<br></br><i>(다른 쪽은 파괴됩니다!)</i>",
     "type": "MINION",
     "cardClass": "DRUID",
     "classes": [],
@@ -90,34 +87,16 @@
     ],
     "nativeRawText": "[x]<b>설화</b>, <b>선택 -</b>\n진아즈샤리를 강화합니다.\n또는 영원의 샘을 강화합니다.\n<i>(다른 쪽은 파괴됩니다!)</i>",
     "nativeTextBuilder": 7,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    119930,
-    119929,
-    120204,
-    120202,
-    120205,
-    120200
-  ],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Lady Azshara",
+    "root": true,
+    "relatedIds": [
+      119930,
+      119929,
+      120204,
+      120202,
+      120205,
+      120200
+    ],
+    "art": "art/TIME_211.png"
   }
 }

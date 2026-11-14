@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Static Shock",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_218",
     "dbfId": 121020,
     "name": "전하 충격",
-    "text": "하수인에게 피해를\n$1 줍니다. 이번 턴에\n내 영웅에게 공격력을\n+1 부여합니다.",
+    "text": "하수인에게 피해를<br></br>$1 줍니다. 이번 턴에<br></br>내 영웅에게 공격력을<br></br>+1 부여합니다.",
     "type": "SPELL",
     "cardClass": "SHAMAN",
     "classes": [],
@@ -55,27 +52,9 @@
     ],
     "nativeRawText": "[x]하수인에게 피해를\n$1 줍니다. 이번 턴에\n내 영웅에게 공격력을\n+1 부여합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Static Shock",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/TIME_218.png"
   }
 }

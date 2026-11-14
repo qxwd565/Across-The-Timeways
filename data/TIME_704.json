@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Highborne Mentor",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_704",
     "dbfId": 120761,
     "name": "명가의 스승",
@@ -85,29 +82,11 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 2/2 제자를 얻습니다. 비용이 (7) 이상인 과거의 주문을 <b>발견</b>해 그 제자에게 가르칩니다.",
     "nativeTextBuilder": 7,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    122590
-  ],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Highborne Mentor",
+    "root": true,
+    "relatedIds": [
+      122590
+    ],
+    "art": "art/TIME_704.png"
   }
 }

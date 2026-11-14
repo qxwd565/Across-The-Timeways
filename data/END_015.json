@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Triennium Rex",
-  "card": {
+  "2026-01-14": {
     "id": "END_015",
     "dbfId": 121157,
     "name": "트리에니움 렉스",
@@ -92,27 +89,9 @@
     ],
     "nativeRawText": "<b>유사 및 죽음의 메아리</b>:& 무작위 <b>죽음의 메아리</b> 하수인을 얻습니다. 그 하수인의 비용이 (2) 감소합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2026-01-14",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Triennium Rex",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/END_015.png"
   }
 }

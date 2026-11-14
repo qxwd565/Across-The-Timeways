@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Faceless Enigma",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_860",
     "dbfId": 119740,
     "name": "얼굴 없는 수수께끼",
@@ -80,27 +77,9 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 무작위 <b>비밀</b> 2장 중 1장을 선택하여 내게 시전하고, 나머지 1장은 상대편에게 시전합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Faceless Enigma",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/TIME_860.png"
   }
 }

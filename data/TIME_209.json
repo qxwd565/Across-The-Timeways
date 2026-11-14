@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Muradin, High King",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_209",
     "dbfId": 119643,
     "name": "국왕 무라딘",
-    "text": "<b>설화</b>, <b>속공</b>, <b>전투의 함성:</b> 국왕의 망치를 내게 가져오라!\n<b>죽음의 메아리:</b> 국왕의 망치를 내 손으로 가져옵니다.",
+    "text": "<b>설화</b>, <b>속공</b>, <b>전투의 함성:</b> 국왕의 망치를 내게 가져오라!<br></br><b>죽음의 메아리:</b> 국왕의 망치를 내 손으로 가져옵니다.",
     "type": "MINION",
     "cardClass": "SHAMAN",
     "classes": [],
@@ -105,30 +102,12 @@
     ],
     "nativeRawText": "<b>설화</b>, <b>속공</b>, <b>전투의 함성:</b> 국왕의 망치를 내게 가져오라!\n<b>죽음의_메아리:</b> 국왕의 망치를 내 손으로 가져옵니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    119647,
-    119653
-  ],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Muradin, High King",
+    "root": true,
+    "relatedIds": [
+      119647,
+      119653
+    ],
+    "art": "art/TIME_209.png"
   }
 }

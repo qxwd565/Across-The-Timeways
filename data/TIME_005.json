@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Timethief Rafaam",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_005",
     "dbfId": 119432,
     "name": "시간도둑 라팜",
@@ -120,38 +117,20 @@
     ],
     "nativeRawText": "<b>설화+</b>. 내 덱의 카드 한도가 40이 되지만, 라팜이 10장 들어갑니다! <b>전투의_함성:</b> 나머지 라팜들을 냈으면 적 영웅을 처치합니다.@\n<i>({0} 남음!)</i>@\n<i>(준비됨!)</i>",
     "nativeTextBuilder": 11,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    119433,
-    119434,
-    119447,
-    119441,
-    119443,
-    119445,
-    119444,
-    119446,
-    119450,
-    119562
-  ],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Timethief Rafaam",
+    "root": true,
+    "relatedIds": [
+      119433,
+      119434,
+      119447,
+      119441,
+      119443,
+      119445,
+      119444,
+      119446,
+      119450,
+      119562
+    ],
+    "art": "art/TIME_005.png"
   }
 }

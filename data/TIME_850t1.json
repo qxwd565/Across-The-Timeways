@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Valeera, Blood Fighter",
-  "card": {
+  "2025-11-05": {
     "id": "TIME_850t1",
     "dbfId": 119454,
     "name": "피의 투사 발리라",
-    "text": "<b>모면</b>, <b>죽음의 메아리:</b> 내 손에서\n피의 투사를 소환합니다.\n그 투사에게 +5/+5와\n<b>모면</b>을 부여합니다.",
+    "text": "<b>모면</b>, <b>죽음의 메아리:</b> 내 손에서<br></br>피의 투사를 소환합니다.<br></br>그 투사에게 +5/+5와<br></br><b>모면</b>을 부여합니다.",
     "type": "MINION",
     "cardClass": "WARRIOR",
     "classes": [],
@@ -80,27 +77,9 @@
     ],
     "nativeRawText": "[x]<b>모면</b>, <b>죽음의 메아리:</b> 내 손에서\n피의 투사를 소환합니다.\n그 투사에게 +5/+5와\n<b>모면</b>을 부여합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-11-05",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Valeera, Blood Fighter",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/TIME_850t1.png"
   }
 }

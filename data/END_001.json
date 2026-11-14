@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Jagged Edge of Time",
-  "card": {
+  "2026-01-14": {
     "id": "END_001",
     "dbfId": 121274,
     "name": "시간의 톱니 칼날",
@@ -88,30 +85,12 @@
     ],
     "nativeRawText": "<b>전투의 함성</b>: 내 영웅 능력을 <b>연마</b>합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2026-01-14",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    121243,
-    121272
-  ],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Jagged Edge of Time",
+    "root": true,
+    "relatedIds": [
+      121243,
+      121272
+    ],
+    "art": "art/END_001.png"
   }
 }

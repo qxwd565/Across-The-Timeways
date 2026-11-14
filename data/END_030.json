@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Haywire Hornswog",
-  "card": {
+  "2026-01-14": {
     "id": "END_030",
     "dbfId": 121193,
     "name": "폭주하는 용뿔두꺼비",
@@ -98,27 +95,9 @@
     ],
     "nativeRawText": "<b>모면</b>, <b>도발</b>. 이번 게임에서 <b>과부하</b>된 내 마나 수정 하나당 비용이 (1)씩 감소합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2026-01-14",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1957,
-    "slug": "across-the-timeways",
-    "name": "시간의 길 너머로",
-    "type": "",
-    "englishName": "Across The Timeways"
-  },
-  "setOrder": 3,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Haywire Hornswog",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/END_030.png"
   }
 }
